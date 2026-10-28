@@ -1,0 +1,59 @@
+{
+  "published": false,
+  "steps": [
+    {
+      "t": "2026-08-21T18:34:29.086Z",
+      "name": "home",
+      "detail": "https://dzen.ru/"
+    },
+    {
+      "t": "2026-08-21T18:34:30.152Z",
+      "name": "studio",
+      "detail": "https://dzen.ru/profile/editor/yarcheled1"
+    },
+    {
+      "t": "2026-08-21T18:34:30.711Z",
+      "name": "file",
+      "detail": "C:\\Users\\faans\\Desktop\\РИЛС-ЗАГРУЗКА\\Человек-Паук1.mp4"
+    },
+    {
+      "t": "2026-08-21T18:34:31.297Z",
+      "name": "editor",
+      "detail": "https://dzen.ru/profile/editor/yarcheled1?videoEditorPublicationId=6a889a37cf3b4c6d3028a1d2"
+    },
+    {
+      "t": "2026-08-21T18:34:32.240Z",
+      "name": "options",
+      "detail": "[]"
+    },
+    {
+      "t": "2026-08-21T18:34:32.241Z",
+      "name": "fields",
+      "detail": "{\"tags\":{\"tag\":\"INPUT\",\"placeholder\":\"Добавьте теги\",\"cls\":\"video-editor--tag-input__input-29 video-editor--tag-input__isEmpty-lV\"},\"commentTitle\":{\"tag\":\"TEXTAREA\",\"test\":\"publication-custom-comments-title-input\",\"placeholder\":\"Комментарии\",\"max\":\"70\"},\"commentWho\":{\"text\":\"Подписчики\",\"test\":\"select-trigger-button-comment\"}}"
+    },
+    {
+      "t": "2026-08-21T18:34:32.241Z",
+      "name": "publish",
+      "detail": "НЕ публикую"
+    }
+  ],
+  "options": [],
+  "fields": {
+    "tags": {
+      "tag": "INPUT",
+      "placeholder": "Добавьте теги",
+      "cls": "video-editor--tag-input__input-29 video-editor--tag-input__isEmpty-lV"
+    },
+    "commentTitle": {
+      "tag": "TEXTAREA",
+      "test": "publication-custom-comments-title-input",
+      "placeholder": "Комментарии",
+      "max": "70"
+    },
+    "commentWho": {
+      "text": "Подписчики",
+      "test": "select-trigger-button-comment"
+    }
+  },
+  "currentComment": "Подписчики"
+}

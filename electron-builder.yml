@@ -1,0 +1,60 @@
+appId: com.reelsloader.app
+productName: Рилс Загрузка
+directories:
+  buildResources: build
+files:
+  - '!**/.vscode/*'
+  - '!src/*'
+  - '!electron.vite.config.{js,ts,mjs,cjs}'
+  - '!{.eslintcache,eslint.config.mjs,.prettierignore,.prettierrc.yaml,dev-app-update.yml,CHANGEME.md,README.md}'
+  - '!{.env,.env.*,.npmrc,pnpm-lock.yaml}'
+  - '!{tsconfig.json,tsconfig.node.json,tsconfig.web.json}'
+  - '!python/**'
+extraResources:
+  - from: python
+    to: python
+    filter:
+      - '**/*.py'
+  - from: reels-engine
+    to: reels-engine
+    filter:
+      - '**/*'
+      - '!**/__pycache__/**'
+      - '!**/*.pyc'
+  - from: captions/render.cjs
+    to: captions/render.cjs
+  - from: captions-bundle
+    to: captions-bundle
+asarUnpack:
+  - resources/**
+  - node_modules/**
+win:
+  executableName: reels-uploader
+  icon: build/icon.png
+nsis:
+  artifactName: ${name}-${version}-setup.${ext}
+  shortcutName: ${productName}
+  uninstallDisplayName: ${productName}
+  createDesktopShortcut: always
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+mac:
+  icon: build/icon.png
+  entitlementsInherit: build/entitlements.mac.plist
+  notarize: false
+  category: public.app-category.video
+  target:
+    - dmg
+  sign:
+    identity: null
+dmg:
+  artifactName: ${name}-${version}.${ext}
+linux:
+  target:
+    - AppImage
+  maintainer: reels-uploader
+  category: Video
+npmRebuild: false
+electronLanguages:
+  - ru
+  - en

@@ -1,0 +1,86 @@
+{
+  "url": "https://studio.rutube.ru/?period=7_days&tab=main",
+  "didNotPublish": true,
+  "startedAt": "2026-08-21T15:11:33.890Z",
+  "files": {
+    "video": "Человек-Паук1.mp4",
+    "cover": "test-cover.png"
+  },
+  "open": {
+    "add": "[data-testid=\"header-add-button\"]",
+    "uploadVideo": {
+      "testid": "uploadVideo",
+      "text": "Загрузить видео или Shorts"
+    }
+  },
+  "videoInput": {
+    "tag": "input",
+    "type": "file",
+    "accept": ".mp4,.flv,.avi,.mov,.mpg,.wmv,.m4v,.mp3,.wma,.3gp,.mkv,.webm",
+    "note": "единственный file input на форме, image/png в accept нет"
+  },
+  "publish": {
+    "selector": "button[type=\"submit\"]",
+    "text": "Опубликовать",
+    "first": { "disabled": true, "ariaDisabled": "true" },
+    "then": { "disabled": false, "ariaDisabled": "false", "afterMs": 4000 },
+    "clicked": false,
+    "uiStillShowed": "Обработка 0% — кнопка enabled раньше, чем пропадёт процент"
+  },
+  "coverBeforeClick": {
+    "heading": {
+      "tag": "span",
+      "text": "Обложка",
+      "parentText": "Обложка Необязательно",
+      "cls": "__studio_label_8d9843"
+    },
+    "uploadOwn": {
+      "tag": "p",
+      "text": "Загрузить свою",
+      "role": null,
+      "type": null,
+      "container": "div.container__cover-uploader-module__Nc3z0NqaC7ATT1Rk",
+      "locator": "[data-testid=\"video-editor-layout\"] [class*=\"cover-uploader\"] >> text=Загрузить свою"
+    },
+    "buttons": [
+      {
+        "tag": "button",
+        "type": "button",
+        "aria": "Выбрать кадр из видео",
+        "text": "",
+        "disabled": true,
+        "clicked": false,
+        "note": "иконка кадры справа от «Загрузить свою»; не жать"
+      }
+    ],
+    "radiosInCover": [],
+    "tabsInCover": [],
+    "imageFileInputs": [],
+    "note": "Не button/tab/radio. Клик по p/div cover-uploader открывает нативный filechooser. Image-input в DOM нет. «Указать заставку» в секции обложки нет."
+  },
+  "pageRadiosNotCover": [
+    { "tag": "input", "type": "radio", "id": ":r4l:", "checked": true, "note": "не обложка, не трогать" },
+    { "tag": "input", "type": "radio", "id": ":r4m:", "checked": false, "note": "не обложка, не трогать" }
+  ],
+  "clicks": [
+    { "action": "scroll-обложка", "headingVisible": true, "ownVisible": true },
+    { "action": "Загрузить свою", "how": "text", "skipped": "Выбрать кадр из видео / Указать заставку" },
+    { "action": "setFiles", "via": "filechooser", "cover": "test-cover.png" },
+    { "action": "crop-confirm", "text": "Готово" }
+  ],
+  "coverAfterFile": {
+    "uploadOwnGone": true,
+    "buttons": [
+      { "tag": "button", "aria": "Скачать обложку", "disabled": false },
+      { "tag": "button", "aria": "Редактировать обложку", "disabled": false },
+      { "tag": "button", "aria": "Вернуть старую обложку", "disabled": false },
+      { "tag": "button", "aria": "Выбрать кадр из видео", "disabled": true, "clicked": false }
+    ],
+    "imageFileInputs": [],
+    "radiosInCover": [],
+    "tabsInCover": []
+  },
+  "editor": "[data-testid=\"video-editor-layout\"]",
+  "toastSeen": "Не получилось сгенерировать субтитры. Попробуйте ещё раз",
+  "error": null
+}

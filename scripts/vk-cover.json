@@ -1,0 +1,2948 @@
+{
+  "startedAt": "2026-08-21T15:11:00.478Z",
+  "video": "C:\\Users\\faans\\Desktop\\РИЛС-ЗАГРУЗКА\\Человек-Паук1.mp4",
+  "cover": "C:\\Users\\faans\\Desktop\\РИЛС-ЗАГРУЗКА\\test-cover.png",
+  "steps": [
+    {
+      "label": "clips-home",
+      "at": "2026-08-21T15:11:05.734Z",
+      "url": "https://vk.ru/clips",
+      "title": "Клипы для вас",
+      "modalText": "Роман К+7 ••• ••• •• 35Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить аккаунт",
+      "publish": null,
+      "files": [],
+      "coverish": [
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        }
+      ],
+      "interesting": [
+        {
+          "tag": "a",
+          "type": null,
+          "test": "header-profile-menu-button",
+          "hidden": false,
+          "cls": "vkit-jhwfrm vkuiInternalTappable vkuiIconButton__host vkuiIconButton__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTable",
+          "text": "Настройки профиля",
+          "href": "https://vk.ru/id1093328478"
+        },
+        {
+          "tag": "nav",
+          "type": null,
+          "test": "leftmenu",
+          "hidden": false,
+          "cls": "LeftMenu__leftMenu--Kp2FO",
+          "text": "Профиль Лента Мессенджер Звонки Друзья Сообщества Фото Музыка Видео Клипы Игры Стикеры Маркет Сервисы Голоса Яндекс Брау"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Видео",
+          "href": "//vkvideo.ru"
+        },
+        {
+          "tag": "li",
+          "type": null,
+          "id": "l_svd",
+          "test": "leftmenuitem",
+          "hidden": false,
+          "cls": "vkit-IrzagA",
+          "text": "Клипы"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Клипы",
+          "href": "/clips"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "leftmenuitem-label",
+          "hidden": false,
+          "cls": "vkit-dfg814 vkuiText__host vkuiText__densityCompact vkuiTypography__host vkuiTypography__normalize vkuiRootComponent__host",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "leftmenuitem-text",
+          "hidden": false,
+          "cls": "vkit-ewZ0L2 vkit-VbEObC vkit-5ara8E",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "section",
+          "type": null,
+          "test": "rightmenu",
+          "hidden": false,
+          "cls": "vkit-lbf332 vkit-YlUNtX vkit-0h2gYX vkitInternalGroupCard vkuiInternalGroup vkuiGroup__host vkuiGroup__viewWidthSmallTabletPlus vkuiGroup__m",
+          "text": "Мои клипы Опубликовать Для вас Подписки Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenu-in",
+          "hidden": false,
+          "cls": "vkit-kCkj0e",
+          "text": "Мои клипы Опубликовать Для вас Подписки Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "id": "my",
+          "test": "clips-rightmenu-section-my",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkit-kEsTFB vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Мои клипы Опубликовать"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-in",
+          "hidden": false,
+          "cls": "vkit-kjcxRL",
+          "text": "Мои клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-after",
+          "hidden": true,
+          "cls": "vkit-ZPQfKq",
+          "text": "Опубликовать"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-publish-button",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeS vkuiButton__modeSecondary vkuiButton__appearanceAccent vkuiTappable__hos",
+          "text": "Опубликовать"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "id": "search",
+          "test": "clips-rightmenu-section-search",
+          "hidden": false,
+          "cls": "vkit-kEsTFB vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Поиск клипов",
+          "href": "/clips/search"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-in",
+          "hidden": false,
+          "cls": "vkit-kjcxRL",
+          "text": "Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "header-profile-menu",
+          "hidden": true,
+          "text": "Роман К+7 ••• ••• •• 35Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить акка"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": true,
+          "cls": "ImageBanner-module_banner__8ZmhH vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointer",
+          "href": "https://yandex.ru/project/browser/vk/gen/promo-widget?banerid=5899000005"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "role": "button",
+          "hidden": true,
+          "cls": "ImageBanner-module_closeButton__fhdT7 vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPo"
+        }
+      ]
+    },
+    {
+      "label": "modal-before-video",
+      "at": "2026-08-21T15:11:07.848Z",
+      "url": "https://vk.ru/clips",
+      "title": "Клипы для вас",
+      "modalText": "Новый клип Выберите или перетащите в это окно вертикальное видео длиной от 1 секунды до 3 минут Роман К Выбрать файл Рекомендации для авторов Загружая контент, вы принимаете Пользовательское соглашение Закрыть",
+      "publish": null,
+      "files": [
+        {
+          "tag": "input",
+          "type": "file",
+          "accept": "video/*,.avi,.mp4,.3gp,.mpeg,.mov,.flv,.f4v,.wmv,.mkv,.webm,.vob,.rm,.rmvb,.m4v,.mpg,.ogv,.ts,.m2ts,.mts,.mxf",
+          "test": "video_upload_select_file",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        }
+      ],
+      "coverish": [
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте с авторами",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        }
+      ],
+      "interesting": [
+        {
+          "tag": "a",
+          "type": null,
+          "test": "header-profile-menu-button",
+          "hidden": false,
+          "cls": "vkit-jhwfrm vkuiInternalTappable vkuiIconButton__host vkuiIconButton__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTable",
+          "text": "Настройки профиля",
+          "href": "https://vk.ru/id1093328478"
+        },
+        {
+          "tag": "nav",
+          "type": null,
+          "test": "leftmenu",
+          "hidden": false,
+          "cls": "LeftMenu__leftMenu--Kp2FO",
+          "text": "Профиль Лента Мессенджер Звонки Друзья Сообщества Фото Музыка Видео Клипы Игры Стикеры Маркет Сервисы Голоса Яндекс Брау"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Видео",
+          "href": "//vkvideo.ru"
+        },
+        {
+          "tag": "li",
+          "type": null,
+          "id": "l_svd",
+          "test": "leftmenuitem",
+          "hidden": false,
+          "cls": "vkit-IrzagA",
+          "text": "Клипы"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Клипы",
+          "href": "/clips"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "leftmenuitem-label",
+          "hidden": false,
+          "cls": "vkit-dfg814 vkuiText__host vkuiText__densityCompact vkuiTypography__host vkuiTypography__normalize vkuiRootComponent__host",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "leftmenuitem-text",
+          "hidden": false,
+          "cls": "vkit-ewZ0L2 vkit-VbEObC vkit-5ara8E",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "section",
+          "type": null,
+          "test": "rightmenu",
+          "hidden": false,
+          "cls": "vkit-lbf332 vkit-YlUNtX vkit-0h2gYX vkitInternalGroupCard vkuiInternalGroup vkuiGroup__host vkuiGroup__viewWidthSmallTabletPlus vkuiGroup__m",
+          "text": "Мои клипы Опубликовать Для вас Подписки Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenu-in",
+          "hidden": false,
+          "cls": "vkit-kCkj0e",
+          "text": "Мои клипы Опубликовать Для вас Подписки Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "id": "my",
+          "test": "clips-rightmenu-section-my",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkit-kEsTFB vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Мои клипы Опубликовать"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-in",
+          "hidden": false,
+          "cls": "vkit-kjcxRL",
+          "text": "Мои клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-after",
+          "hidden": true,
+          "cls": "vkit-ZPQfKq",
+          "text": "Опубликовать"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-publish-button",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeS vkuiButton__modeSecondary vkuiButton__appearanceAccent vkuiTappable__hos",
+          "text": "Опубликовать"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "id": "search",
+          "test": "clips-rightmenu-section-search",
+          "hidden": false,
+          "cls": "vkit-kEsTFB vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Поиск клипов",
+          "href": "/clips/search"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-in",
+          "hidden": false,
+          "cls": "vkit-kjcxRL",
+          "text": "Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Новый клип",
+          "test": "modalbox",
+          "role": "dialog",
+          "hidden": false,
+          "cls": "vkit-iexco9 vkitInternalModalBox",
+          "text": "Новый клип Выберите или перетащите в это окно вертикальное видео длиной от 1 секунды до 3 минут Роман К Выбрать файл Рек"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "video_upload_modal",
+          "hidden": false,
+          "cls": "vkit-ffWDJI vkit-VCHu00",
+          "text": "Новый клип Выберите или перетащите в это окно вертикальное видео длиной от 1 секунды до 3 минут Роман К Выбрать файл Рек"
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "test": "video_upload_select_author",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        },
+        {
+          "tag": "input",
+          "type": "file",
+          "accept": "video/*,.avi,.mp4,.3gp,.mpeg,.mov,.flv,.f4v,.wmv,.mkv,.webm,.vob,.rm,.rmvb,.m4v,.mpg,.ogv,.ts,.m2ts,.mts,.mxf",
+          "test": "video_upload_select_file",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "header-profile-menu",
+          "hidden": true,
+          "text": "Роман К+7 ••• ••• •• 35Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить акка"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": true,
+          "cls": "ImageBanner-module_banner__8ZmhH vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointer",
+          "href": "https://yandex.ru/project/browser/vk/gen/promo-widget?banerid=5899000005"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "role": "button",
+          "hidden": true,
+          "cls": "ImageBanner-module_closeButton__fhdT7 vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPo"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте с авторами",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        }
+      ]
+    },
+    {
+      "label": "just-after-video",
+      "at": "2026-08-21T15:11:07.877Z",
+      "url": "https://vk.ru/clips",
+      "title": "Клипы для вас",
+      "modalText": "Новый клип Выберите или перетащите в это окно вертикальное видео длиной от 1 секунды до 3 минут Роман К Выбрать файл Рекомендации для авторов Загружая контент, вы принимаете Пользовательское соглашение Закрыть",
+      "publish": null,
+      "files": [
+        {
+          "tag": "input",
+          "type": "file",
+          "accept": "video/*,.avi,.mp4,.3gp,.mpeg,.mov,.flv,.f4v,.wmv,.mkv,.webm,.vob,.rm,.rmvb,.m4v,.mpg,.ogv,.ts,.m2ts,.mts,.mxf",
+          "test": "video_upload_select_file",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "C:\\fakepath\\Человек-Паук1.mp4"
+        }
+      ],
+      "coverish": [
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте с авторами",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        }
+      ],
+      "interesting": [
+        {
+          "tag": "a",
+          "type": null,
+          "test": "header-profile-menu-button",
+          "hidden": false,
+          "cls": "vkit-jhwfrm vkuiInternalTappable vkuiIconButton__host vkuiIconButton__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTable",
+          "text": "Настройки профиля",
+          "href": "https://vk.ru/id1093328478"
+        },
+        {
+          "tag": "nav",
+          "type": null,
+          "test": "leftmenu",
+          "hidden": false,
+          "cls": "LeftMenu__leftMenu--Kp2FO",
+          "text": "Профиль Лента Мессенджер Звонки Друзья Сообщества Фото Музыка Видео Клипы Игры Стикеры Маркет Сервисы Голоса Яндекс Брау"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Видео",
+          "href": "//vkvideo.ru"
+        },
+        {
+          "tag": "li",
+          "type": null,
+          "id": "l_svd",
+          "test": "leftmenuitem",
+          "hidden": false,
+          "cls": "vkit-IrzagA",
+          "text": "Клипы"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Клипы",
+          "href": "/clips"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "leftmenuitem-label",
+          "hidden": false,
+          "cls": "vkit-dfg814 vkuiText__host vkuiText__densityCompact vkuiTypography__host vkuiTypography__normalize vkuiRootComponent__host",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "leftmenuitem-text",
+          "hidden": false,
+          "cls": "vkit-ewZ0L2 vkit-VbEObC vkit-5ara8E",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcard-cover",
+          "hidden": false,
+          "cls": "vkit-tN7cz9 vkit-mPxjNk vkit-VPuXG4 vkitInternalImageBase vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vkuiRootComponent__h"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clipcontainer-video",
+          "hidden": false,
+          "cls": "vkit-VPuXG4"
+        },
+        {
+          "tag": "section",
+          "type": null,
+          "test": "rightmenu",
+          "hidden": false,
+          "cls": "vkit-lbf332 vkit-YlUNtX vkit-0h2gYX vkitInternalGroupCard vkuiInternalGroup vkuiGroup__host vkuiGroup__viewWidthSmallTabletPlus vkuiGroup__m",
+          "text": "Мои клипы Опубликовать Для вас Подписки Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenu-in",
+          "hidden": false,
+          "cls": "vkit-kCkj0e",
+          "text": "Мои клипы Опубликовать Для вас Подписки Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "id": "my",
+          "test": "clips-rightmenu-section-my",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkit-kEsTFB vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Мои клипы Опубликовать"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-in",
+          "hidden": false,
+          "cls": "vkit-kjcxRL",
+          "text": "Мои клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-after",
+          "hidden": true,
+          "cls": "vkit-ZPQfKq",
+          "text": "Опубликовать"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-publish-button",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeS vkuiButton__modeSecondary vkuiButton__appearanceAccent vkuiTappable__hos",
+          "text": "Опубликовать"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "id": "search",
+          "test": "clips-rightmenu-section-search",
+          "hidden": false,
+          "cls": "vkit-kEsTFB vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Поиск клипов",
+          "href": "/clips/search"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "rightmenuitem-in",
+          "hidden": false,
+          "cls": "vkit-kjcxRL",
+          "text": "Поиск клипов"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Новый клип",
+          "test": "modalbox",
+          "role": "dialog",
+          "hidden": false,
+          "cls": "vkit-iexco9 vkitInternalModalBox",
+          "text": "Новый клип Выберите или перетащите в это окно вертикальное видео длиной от 1 секунды до 3 минут Роман К Выбрать файл Рек"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "video_upload_modal",
+          "hidden": false,
+          "cls": "vkit-ffWDJI vkit-VCHu00",
+          "text": "Новый клип Выберите или перетащите в это окно вертикальное видео длиной от 1 секунды до 3 минут Роман К Выбрать файл Рек"
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "test": "video_upload_select_author",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        },
+        {
+          "tag": "input",
+          "type": "file",
+          "accept": "video/*,.avi,.mp4,.3gp,.mpeg,.mov,.flv,.f4v,.wmv,.mkv,.webm,.vob,.rm,.rmvb,.m4v,.mpg,.ogv,.ts,.m2ts,.mts,.mxf",
+          "test": "video_upload_select_file",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "C:\\fakepath\\Человек-Паук1.mp4"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "header-profile-menu",
+          "hidden": true,
+          "text": "Роман К+7 ••• ••• •• 35Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить акка"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": true,
+          "cls": "ImageBanner-module_banner__8ZmhH vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointer",
+          "href": "https://yandex.ru/project/browser/vk/gen/promo-widget?banerid=5899000005"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "role": "button",
+          "hidden": true,
+          "cls": "ImageBanner-module_closeButton__fhdT7 vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPo"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте с авторами",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        }
+      ]
+    },
+    {
+      "label": "after-processing",
+      "at": "2026-08-21T15:11:39.581Z",
+      "url": "https://vk.ru/clips/upload1093328478",
+      "title": "Публикация клипа",
+      "modalText": "Роман К+7 ••• ••• •• 35Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить аккаунт",
+      "publish": {
+        "tag": "button",
+        "type": "button",
+        "test": "clips-uploadForm-publish-button",
+        "hidden": false,
+        "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeM vkuiButton__modePrimary vkuiButton__appearanceAccent vkuiTappable__host ",
+        "text": "Опубликовать"
+      },
+      "files": [
+        {
+          "tag": "input",
+          "type": "file",
+          "id": ":rk:",
+          "accept": "image/png, image/jpeg, image/jpg",
+          "aria": "Выбрать обложку",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        }
+      ],
+      "coverish": [
+        {
+          "tag": "section",
+          "type": null,
+          "test": "video_upload_clip_form",
+          "hidden": false,
+          "cls": "vkit-lbf332 vkit-OAtaxt vkit-0h2gYX vkitInternalGroupCard vkuiInternalGroup vkuiGroup__host vkuiGroup__viewWidthSmallTabletPlus vkuiGroup__m",
+          "text": "Роман К Клипы Публикация клипа Клип загружен и обработан Описание Обложка Вперед Выберите обложку из предложенных или за"
+        },
+        {
+          "tag": "input",
+          "type": "file",
+          "id": ":rk:",
+          "accept": "image/png, image/jpeg, image/jpg",
+          "aria": "Выбрать обложку",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "test": "media-attach-selected-icon",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuiImageBaseOverlay__visible vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__them"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "clips-upload-thumb-block-text",
+          "hidden": false,
+          "text": "Выберите обложку из предложенных или загрузите свою: размер изображения — от 720×1280 px, соотношение сторон — 9:16, раз"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте с авторами",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        }
+      ],
+      "interesting": [
+        {
+          "tag": "a",
+          "type": null,
+          "test": "header-profile-menu-button",
+          "hidden": false,
+          "cls": "vkit-jhwfrm vkuiInternalTappable vkuiIconButton__host vkuiIconButton__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTable",
+          "text": "Настройки профиля",
+          "href": "https://vk.ru/id1093328478"
+        },
+        {
+          "tag": "nav",
+          "type": null,
+          "test": "leftmenu",
+          "hidden": false,
+          "cls": "LeftMenu__leftMenu--Kp2FO",
+          "text": "Профиль Лента Мессенджер Звонки Друзья Сообщества Фото Музыка Видео Клипы Игры Стикеры Маркет Сервисы Голоса Яндекс Брау"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Видео",
+          "href": "//vkvideo.ru"
+        },
+        {
+          "tag": "li",
+          "type": null,
+          "id": "l_svd",
+          "test": "leftmenuitem",
+          "hidden": false,
+          "cls": "vkit-IrzagA",
+          "text": "Клипы"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Клипы",
+          "href": "/clips"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "leftmenuitem-label",
+          "hidden": false,
+          "cls": "vkit-dfg814 vkuiText__host vkuiText__densityCompact vkuiTypography__host vkuiTypography__normalize vkuiRootComponent__host",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "leftmenuitem-text",
+          "hidden": false,
+          "cls": "vkit-ewZ0L2 vkit-VbEObC vkit-5ara8E",
+          "text": "Клипы"
+        },
+        {
+          "tag": "section",
+          "type": null,
+          "test": "video_upload_clip_form",
+          "hidden": false,
+          "cls": "vkit-lbf332 vkit-OAtaxt vkit-0h2gYX vkitInternalGroupCard vkuiInternalGroup vkuiGroup__host vkuiGroup__viewWidthSmallTabletPlus vkuiGroup__m",
+          "text": "Роман К Клипы Публикация клипа Клип загружен и обработан Описание Обложка Вперед Выберите обложку из предложенных или за"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-header",
+          "role": "heading",
+          "hidden": false,
+          "cls": "vkit-91tUoS vkit-tCg2yI vkit-SmdSOc vkuiHeader__host vkuiHeader__sizeM vkuiRootComponent__host",
+          "text": "Роман К Клипы Публикация клипа"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "breadcrumbs",
+          "hidden": false,
+          "cls": "vkit-0EH5A8",
+          "text": "Роман К Клипы Публикация клипа"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "shrinkcontroller-first",
+          "hidden": false,
+          "cls": "vkit-ls9HwM vkit-0EH5A8",
+          "text": "Роман К Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "shrinkcontroller-second",
+          "hidden": false,
+          "cls": "vkit-7Fh46p",
+          "text": "Клипы"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "test": "breadcrumb",
+          "role": "link",
+          "hidden": false,
+          "cls": "vkit-oyfAmB vkit-aF0f3Y",
+          "text": "Клипы",
+          "href": "/clips/id1093328478"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "breadcrumb-label",
+          "hidden": false,
+          "cls": "vkit-TGkklS",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "shrinkcontroller-second",
+          "hidden": false,
+          "cls": "vkit-7Fh46p",
+          "text": "Публикация клипа"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "breadcrumb-current",
+          "hidden": false,
+          "cls": "vkit-oyfAmB vkit-lSLdYQ",
+          "text": "Публикация клипа"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "breadcrumb-label",
+          "hidden": false,
+          "cls": "vkit-TGkklS",
+          "text": "Публикация клипа"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-status",
+          "hidden": false,
+          "cls": "vkui-padding vkuiRootComponent__host",
+          "text": "Клип загружен и обработан"
+        },
+        {
+          "tag": "textarea",
+          "type": null,
+          "id": "clipDescription_1093328478_456239024",
+          "test": "clips-upload-description",
+          "hidden": false,
+          "cls": "vkuiUnstyledTextField__host vkuiTextarea__el vkuiText__host vkuiText__densityCompact vkuiTypography__host vkuiRootComponent__host"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiClickable__host vkuiRootComponent__host"
+        },
+        {
+          "tag": "input",
+          "type": "file",
+          "id": ":rk:",
+          "accept": "image/png, image/jpeg, image/jpg",
+          "aria": "Выбрать обложку",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "test": "media-attach-selected-icon",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuiImageBaseOverlay__visible vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__them"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "clips-upload-thumb-block-text",
+          "hidden": false,
+          "text": "Выберите обложку из предложенных или загрузите свою: размер изображения — от 720×1280 px, соотношение сторон — 9:16, раз"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "clips_upload_attach_cells",
+          "hidden": false,
+          "text": "Указать музыку Привязать к видео"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips_upload_cell_separator",
+          "hidden": false,
+          "cls": "vkit-61VcpE vkuiSeparator__padded vkuiSeparator__appearancePrimary vkuiSeparator__directionHorizontal vkuiSeparator__sized vkuiRootComponent"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-audio",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiCell__content vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmal",
+          "text": "Указать музыку"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-attach-video",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiCell__content vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmal",
+          "text": "Привязать к видео"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-privacy-view",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiT",
+          "text": "Кто увидит этот клип Все пользователи"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-publish-date",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiT",
+          "text": "Когда опубликовать Сейчас"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "clips-upload-publish-date-date",
+          "hidden": false,
+          "text": "Сейчас"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "test": "clips-upload-privacy-comments",
+          "role": "switch",
+          "hidden": false,
+          "cls": "vkuiSwitch__inputNative vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "on"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "test": "clips-upload-wallpost",
+          "role": "switch",
+          "hidden": false,
+          "cls": "vkuiSwitch__inputNative vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "on"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "test": "clips-upload-duets",
+          "role": "switch",
+          "hidden": false,
+          "cls": "vkuiSwitch__inputNative vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "on"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "test": "clips-upload-publish-story",
+          "role": "switch",
+          "hidden": false,
+          "cls": "vkuiSwitch__inputNative vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "on"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-ord",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiCell__content vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmal",
+          "text": "Отметка «Реклама от автора»"
+        },
+        {
+          "tag": "li",
+          "type": null,
+          "test": "clips-upload-preview-card",
+          "hidden": false,
+          "cls": "vkuiCard__host vkuiCard__modeOutline vkuiCard__withBorder vkuiRootComponent__host"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "test": "clips-upload-clip-link",
+          "hidden": false,
+          "cls": "vkit-b0dQw7 VideoCardBlock__link--cyIfR vkit-HZ01vl vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappa",
+          "text": "https://vk.ru/clip1093328478_456239024",
+          "href": "https://vk.ru/clip1093328478_456239024"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-upload-clip-copy-link",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeS vkuiButton__modeLink vkuiButton__appearanceAccent vkuiTappable__host vku"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-uploadForm-delete-button",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeM vkuiButton__modeLink vkuiButton__appearanceAccent vkuiTappable__host vku",
+          "text": "Удалить клип"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-uploadForm-publish-button",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeM vkuiButton__modePrimary vkuiButton__appearanceAccent vkuiTappable__host ",
+          "text": "Опубликовать"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "header-profile-menu",
+          "hidden": true,
+          "text": "Роман К+7 ••• ••• •• 35Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить акка"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": true,
+          "cls": "ImageBanner-module_banner__8ZmhH vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointer",
+          "href": "https://yandex.ru/project/browser/vk/gen/promo-widget?banerid=5899000005"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "role": "button",
+          "hidden": true,
+          "cls": "ImageBanner-module_closeButton__fhdT7 vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPo"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте с авторами",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        }
+      ]
+    },
+    {
+      "label": "final-no-publish",
+      "at": "2026-08-21T15:14:39.818Z",
+      "url": "https://vk.ru/clips/upload1093328478",
+      "title": "Публикация клипа",
+      "modalText": "Роман К+7 ••• ••• •• 35Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить аккаунт",
+      "publish": {
+        "tag": "button",
+        "type": "button",
+        "test": "clips-uploadForm-publish-button",
+        "hidden": false,
+        "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeM vkuiButton__modePrimary vkuiButton__appearanceAccent vkuiTappable__host ",
+        "text": "Опубликовать"
+      },
+      "files": [
+        {
+          "tag": "input",
+          "type": "file",
+          "id": ":rk:",
+          "accept": "image/png, image/jpeg, image/jpg",
+          "aria": "Выбрать обложку",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        }
+      ],
+      "coverish": [
+        {
+          "tag": "section",
+          "type": null,
+          "test": "video_upload_clip_form",
+          "hidden": false,
+          "cls": "vkit-lbf332 vkit-OAtaxt vkit-0h2gYX vkitInternalGroupCard vkuiInternalGroup vkuiGroup__host vkuiGroup__viewWidthSmallTabletPlus vkuiGroup__m",
+          "text": "Роман К Клипы Публикация клипа Клип загружен и обработан Описание Обложка Вперед Выберите обложку из предложенных или за"
+        },
+        {
+          "tag": "input",
+          "type": "file",
+          "id": ":rk:",
+          "accept": "image/png, image/jpeg, image/jpg",
+          "aria": "Выбрать обложку",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "test": "media-attach-selected-icon",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuiImageBaseOverlay__visible vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__them"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "clips-upload-thumb-block-text",
+          "hidden": false,
+          "text": "Выберите обложку из предложенных или загрузите свою: размер изображения — от 720×1280 px, соотношение сторон — 9:16, раз"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте с авторами",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        }
+      ],
+      "interesting": [
+        {
+          "tag": "a",
+          "type": null,
+          "test": "header-profile-menu-button",
+          "hidden": false,
+          "cls": "vkit-jhwfrm vkuiInternalTappable vkuiIconButton__host vkuiIconButton__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTable",
+          "text": "Настройки профиля",
+          "href": "https://vk.ru/id1093328478"
+        },
+        {
+          "tag": "nav",
+          "type": null,
+          "test": "leftmenu",
+          "hidden": false,
+          "cls": "LeftMenu__leftMenu--Kp2FO",
+          "text": "Профиль Лента Мессенджер Звонки Друзья Сообщества Фото Музыка Видео Клипы Игры Стикеры Маркет Сервисы Голоса Яндекс Брау"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Видео",
+          "href": "//vkvideo.ru"
+        },
+        {
+          "tag": "li",
+          "type": null,
+          "id": "l_svd",
+          "test": "leftmenuitem",
+          "hidden": false,
+          "cls": "vkit-IrzagA",
+          "text": "Клипы"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": false,
+          "cls": "vkit-IgMYrO vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__h",
+          "text": "Клипы",
+          "href": "/clips"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "leftmenuitem-label",
+          "hidden": false,
+          "cls": "vkit-dfg814 vkuiText__host vkuiText__densityCompact vkuiTypography__host vkuiTypography__normalize vkuiRootComponent__host",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "leftmenuitem-text",
+          "hidden": false,
+          "cls": "vkit-ewZ0L2 vkit-VbEObC vkit-5ara8E",
+          "text": "Клипы"
+        },
+        {
+          "tag": "section",
+          "type": null,
+          "test": "video_upload_clip_form",
+          "hidden": false,
+          "cls": "vkit-lbf332 vkit-OAtaxt vkit-0h2gYX vkitInternalGroupCard vkuiInternalGroup vkuiGroup__host vkuiGroup__viewWidthSmallTabletPlus vkuiGroup__m",
+          "text": "Роман К Клипы Публикация клипа Клип загружен и обработан Описание Обложка Вперед Выберите обложку из предложенных или за"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-header",
+          "role": "heading",
+          "hidden": false,
+          "cls": "vkit-91tUoS vkit-tCg2yI vkit-SmdSOc vkuiHeader__host vkuiHeader__sizeM vkuiRootComponent__host",
+          "text": "Роман К Клипы Публикация клипа"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "breadcrumbs",
+          "hidden": false,
+          "cls": "vkit-0EH5A8",
+          "text": "Роман К Клипы Публикация клипа"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "shrinkcontroller-first",
+          "hidden": false,
+          "cls": "vkit-ls9HwM vkit-0EH5A8",
+          "text": "Роман К Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "shrinkcontroller-second",
+          "hidden": false,
+          "cls": "vkit-7Fh46p",
+          "text": "Клипы"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "test": "breadcrumb",
+          "role": "link",
+          "hidden": false,
+          "cls": "vkit-oyfAmB vkit-aF0f3Y",
+          "text": "Клипы",
+          "href": "/clips/id1093328478"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "breadcrumb-label",
+          "hidden": false,
+          "cls": "vkit-TGkklS",
+          "text": "Клипы"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "shrinkcontroller-second",
+          "hidden": false,
+          "cls": "vkit-7Fh46p",
+          "text": "Публикация клипа"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "breadcrumb-current",
+          "hidden": false,
+          "cls": "vkit-oyfAmB vkit-lSLdYQ",
+          "text": "Публикация клипа"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "breadcrumb-label",
+          "hidden": false,
+          "cls": "vkit-TGkklS",
+          "text": "Публикация клипа"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-status",
+          "hidden": false,
+          "cls": "vkui-padding vkuiRootComponent__host",
+          "text": "Клип загружен и обработан"
+        },
+        {
+          "tag": "textarea",
+          "type": null,
+          "id": "clipDescription_1093328478_456239024",
+          "test": "clips-upload-description",
+          "hidden": false,
+          "cls": "vkuiUnstyledTextField__host vkuiTextarea__el vkuiText__host vkuiText__densityCompact vkuiTypography__host vkuiRootComponent__host"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiClickable__host vkuiRootComponent__host"
+        },
+        {
+          "tag": "input",
+          "type": "file",
+          "id": ":rk:",
+          "accept": "image/png, image/jpeg, image/jpg",
+          "aria": "Выбрать обложку",
+          "hidden": false,
+          "cls": "vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "test": "media-attach-selected-icon",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuiImageBaseOverlay__visible vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__them"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "media-attach",
+          "hidden": false,
+          "cls": "vkit-1JCsCs vkitInternalMediaAttachImage vkitInternalImage vkuiImage__host vkuiImageBase__host vkuiImageBase__loaded vkuiClickable__host vku"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "aria": "Выбрать обложку",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiImageBaseOverlay__clickable vkuistyles__focusVisible vkuiImageBaseOverlay__host vkuiImageBaseOverlay__themeDark"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "clips-upload-thumb-block-text",
+          "hidden": false,
+          "text": "Выберите обложку из предложенных или загрузите свою: размер изображения — от 720×1280 px, соотношение сторон — 9:16, раз"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "clips_upload_attach_cells",
+          "hidden": false,
+          "text": "Указать музыку Привязать к видео"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips_upload_cell_separator",
+          "hidden": false,
+          "cls": "vkit-61VcpE vkuiSeparator__padded vkuiSeparator__appearancePrimary vkuiSeparator__directionHorizontal vkuiSeparator__sized vkuiRootComponent"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-audio",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiCell__content vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmal",
+          "text": "Указать музыку"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-attach-video",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiCell__content vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmal",
+          "text": "Привязать к видео"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-privacy-view",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiT",
+          "text": "Кто увидит этот клип Все пользователи"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-publish-date",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiT",
+          "text": "Когда опубликовать Сейчас"
+        },
+        {
+          "tag": "span",
+          "type": null,
+          "test": "clips-upload-publish-date-date",
+          "hidden": false,
+          "text": "Сейчас"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "test": "clips-upload-privacy-comments",
+          "role": "switch",
+          "hidden": false,
+          "cls": "vkuiSwitch__inputNative vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "on"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "test": "clips-upload-wallpost",
+          "role": "switch",
+          "hidden": false,
+          "cls": "vkuiSwitch__inputNative vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "on"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "test": "clips-upload-duets",
+          "role": "switch",
+          "hidden": false,
+          "cls": "vkuiSwitch__inputNative vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "on"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "test": "clips-upload-publish-story",
+          "role": "switch",
+          "hidden": false,
+          "cls": "vkuiSwitch__inputNative vkuiVisuallyHidden__host vkuiVisuallyHidden__focusableInput vkuiRootComponent__host",
+          "text": "on"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "clips-upload-ord",
+          "role": "button",
+          "hidden": false,
+          "cls": "vkuiCell__content vkuiInternalTappable vkuiSimpleCell__host vkuiSimpleCell__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmal",
+          "text": "Отметка «Реклама от автора»"
+        },
+        {
+          "tag": "li",
+          "type": null,
+          "test": "clips-upload-preview-card",
+          "hidden": false,
+          "cls": "vkuiCard__host vkuiCard__modeOutline vkuiCard__withBorder vkuiRootComponent__host"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "test": "clips-upload-clip-link",
+          "hidden": false,
+          "cls": "vkit-b0dQw7 VideoCardBlock__link--cyIfR vkit-HZ01vl vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappa",
+          "text": "https://vk.ru/clip1093328478_456239024",
+          "href": "https://vk.ru/clip1093328478_456239024"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-upload-clip-copy-link",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeS vkuiButton__modeLink vkuiButton__appearanceAccent vkuiTappable__host vku"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-uploadForm-delete-button",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeM vkuiButton__modeLink vkuiButton__appearanceAccent vkuiTappable__host vku",
+          "text": "Удалить клип"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "test": "clips-uploadForm-publish-button",
+          "hidden": false,
+          "cls": "vkit-nxPS7d vkuiInternalTappable vkuiButton__host vkuiButton__sizeM vkuiButton__modePrimary vkuiButton__appearanceAccent vkuiTappable__host ",
+          "text": "Опубликовать"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "test": "header-profile-menu",
+          "hidden": true,
+          "text": "Роман К+7 ••• ••• •• 35Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить акка"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "hidden": true,
+          "cls": "ImageBanner-module_banner__8ZmhH vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointer",
+          "href": "https://yandex.ru/project/browser/vk/gen/promo-widget?banerid=5899000005"
+        },
+        {
+          "tag": "div",
+          "type": null,
+          "role": "button",
+          "hidden": true,
+          "cls": "ImageBanner-module_closeButton__fhdT7 vkuiInternalTappable vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPo"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        },
+        {
+          "tag": "article",
+          "type": null,
+          "aria": "ВКонтакте с авторами",
+          "hidden": false,
+          "cls": "FCThumb FCThumb--wide",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "hidden": false,
+          "cls": "FCThumb__link",
+          "text": "ВКонтакте с авторами"
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "aria": "Убрать чат из списка",
+          "hidden": false,
+          "cls": "FCThumb__close"
+        }
+      ]
+    }
+  ],
+  "coverProbe": {
+    "buttonVisible": false,
+    "buttonText": "",
+    "buttonAria": null,
+    "textVisible": false,
+    "text": "",
+    "inputCount": 0,
+    "inputAria": null,
+    "inputAccept": null,
+    "inputTest": null
+  },
+  "finalUrl": "https://vk.ru/clips/upload1093328478",
+  "published": false,
+  "coverSetLive": {
+    "tried": [
+      "setInputFiles-aria-облож"
+    ],
+    "ok": true,
+    "inputAttached": true,
+    "aria": "Выбрать обложку",
+    "accept": "image/png, image/jpeg, image/jpg",
+    "status": "Загружено 0%",
+    "filesBefore": [
+      {
+        "tag": "input",
+        "type": "file",
+        "id": ":r13:",
+        "accept": "image/png, image/jpeg, image/jpg",
+        "aria": "Выбрать обложку",
+        "test": null,
+        "files": 0
+      }
+    ],
+    "setInputFiles": "ok",
+    "filesAfter": [],
+    "formText": "Роман К Клипы Публикация клипа Загружено 50% Описание Обложка Вперед Загружается... Удалить ‌ ‌ ‌ ‌ ‌ ‌ ‌ Выбор обложки будет доступен после обработки клипа Указать музыку Привязать к видео Кто увидит этот клип Все пользователи Когда опубликовать Сейчас Разрешить комментарии К вашему клипу можно будет оставлять комментарии Показать на главной профиля Клип будет показываться на вкладке «Главная» профиля Разрешить дуэты С вашим клипом можно будет снимать дуэты Опубликовать в истории Лайки из истории добавятся к клипу Отметка «Реклама от автора» ‌ Загрузка клипа... Название файла Человек-Паук1.mp4 Ссылка на клип https://vk.ru/clip1093328478_456239025 Публикуя клип, вы принимаете Пользовательское соглашение Удалить клип Опубликовать",
+    "url": "https://vk.ru/clips/upload1093328478",
+    "published": false
+  },
+  "updatedAt": "2026-08-21T15:16:43.275Z",
+  "findings": {
+    "published": false,
+    "flow": [
+      "https://vk.ru/clips",
+      "кнопка [data-testid=clips-publish-button] текст «Опубликовать» открывает модалку",
+      "модалка [data-testid=modalbox][aria-label=Новый клип] + [data-testid=video_upload_modal]",
+      "видео: input[data-testid=video_upload_select_file] accept=video/* setInputFiles",
+      "после обработки URL /clips/upload{id} и страница [data-testid=video_upload_clip_form] (это уже НЕ modalbox)",
+      "status [data-testid=clips-upload-status] «Клип загружен и обработан»",
+      "пока грузится: «Загружено N%», «Загружается...», «Выбор обложки будет доступен после обработки клипа»",
+      "обложка ТОЛЬКО после обработки: скрытый input[type=file][aria-label=Выбрать обложку] accept=image/png, image/jpeg, image/jpg — setInputFiles",
+      "не кликать div[role=button][aria-label=Выбрать обложку] — это кадры из видео",
+      "не брать [data-testid=modalbox] после обработки: это меню профиля, клик мимо закроет/уведёт",
+      "описание textarea[data-testid=clips-upload-description]",
+      "опубликовать [data-testid=clips-uploadForm-publish-button] — в дампе не жали"
+    ],
+    "cover": {
+      "selector": "input[aria-label=\"Выбрать обложку\"]",
+      "accept": "image/png, image/jpeg, image/jpg",
+      "method": "locator.setInputFiles без клика по оверлею",
+      "liveSetInputFiles": "ok"
+    }
+  }
+}

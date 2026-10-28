@@ -1,0 +1,848 @@
+{
+  "rutube-studio": {
+    "url": "https://studio.rutube.ru/?period=7_days&tab=main",
+    "title": "Главная - Студия RUTUBE",
+    "items": [
+      {
+        "tag": "button",
+        "id": ":r3:",
+        "test": "header-add-button",
+        "aria": null,
+        "text": "Добавить",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "720p",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Главная",
+        "href": "/",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Видео",
+        "href": "/videos",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Плейлисты",
+        "href": "/playlists",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Трансляции",
+        "href": "/streams",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Аналитика",
+        "href": "/analytics",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Монетизация",
+        "href": "/monetization",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Уровень канала",
+        "href": "/grade",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Донаты",
+        "href": "/donations",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Комментарии",
+        "href": "/comments",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Настройки канала",
+        "href": "/channel-settings",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Cправочник блогера",
+        "href": "https://rutube.ru/for_creators/#main",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Вопросы и ответы",
+        "href": "https://rutube.ru/info/faq/",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Написать в поддержку",
+        "href": "mailto:partners@rutube.ru",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Пожаловаться",
+        "href": "https://rutube.ru/forms/invalid-content",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Студия RUTUBE",
+        "href": "https://rutube.ru/for_creators/#steps/mobile-app",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "RUTUBE",
+        "href": "https://rutube.ru/info/androidapp/?utm_source=rutube_studio&utm_medium=referral&utm_campaign=sidebar&utm_content=gpmh",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "О нас",
+        "href": "https://rutube.ru/info/about_company/",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Пользовательское соглашение",
+        "href": "https://rutube.ru/info/agreement/",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Конфиденциальность",
+        "href": "https://rutube.ru/info/privacy/",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Правовая информация",
+        "href": "https://rutube.ru/info/legal/",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Правила и запреты",
+        "href": "https://rutube.ru/info/taboo_agreement/",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Просмотры 231 02.08 06.08 09.08 12.08 15.08 20.08 0 35 70 105",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Подписчики 0 02.08 05.08 08.08 11.08 14.08 17.08 20.08 0 1 2 3",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Комментарии 0 02.08 05.08 08.08 11.08 14.08 17.08 20.08 0 1 2 3",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Уровень канала Закрывайте кольца, чтобы повышать уровень и получать бонусы Узнат",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Узнать больше",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "img",
+        "id": "",
+        "test": "grades-medal",
+        "aria": null,
+        "text": "",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": "Прогресс монетизации",
+        "text": "Монетизация Выполните все условия, чтобы подать заявку на монетизацию и начать з",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Монетизация",
+        "href": "/monetization",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Совет №1 🎥 Регулярно загружайте видео Алгоритмы будут чаще замечать ваш канал и",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "closeIcon",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Настройте донаты",
+        "href": "/channel-settings/donations",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Подробнее",
+        "href": "https://promo.rutubelist.ru/docs/music_guide/complete_music_guide.pdf",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "prevClick",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "NextClick",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Недавно загруженные Человек-Паук1 8 минут назад 0 0 0 Человек-Паук1 12 минут наз",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Недавно загруженные",
+        "href": "/videos",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Человек-Паук1 8 минут назад",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": ":r1n:",
+        "test": "desktop-dropdown",
+        "aria": "dots",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "svg",
+        "id": "",
+        "test": "trigger-default-icon",
+        "aria": null,
+        "text": "",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Человек-Паук1 12 минут назад",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": ":r22:",
+        "test": "desktop-dropdown",
+        "aria": "dots",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "svg",
+        "id": "",
+        "test": "trigger-default-icon",
+        "aria": null,
+        "text": "",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Человек-Паук1 17 минут назад",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": ":r2d:",
+        "test": "desktop-dropdown",
+        "aria": "dots",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "svg",
+        "id": "",
+        "test": "trigger-default-icon",
+        "aria": null,
+        "text": "",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "новый 27 минут назад",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": ":r2o:",
+        "test": "desktop-dropdown",
+        "aria": "dots",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "svg",
+        "id": "",
+        "test": "trigger-default-icon",
+        "aria": null,
+        "text": "",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Новости Студии RUTUBE ⭐️Новое в уровнях каналов Теперь уровень повышается на сле",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "настройках канала",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "prevClick",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "NextClick",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Комментарии ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ 3 дня назад Для заказа пишите нам в ",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Комментарии",
+        "href": "/comments",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "ЯРЧЕ - СВЕТОДИОДНЫЕ СВЕТИЛЬНИКИ 3 дня назад Для заказа пишите нам в MAX https://",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "test": "widget-wrapper-v2",
+        "aria": null,
+        "text": "Академия Блогеров RUTUBE Здесь учатся создавать качественный контент, увеличиват",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Присоединиться",
+        "href": "https://rutube.ru/for_creators/#academy",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "Закрыть",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "close",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": ":r32:",
+        "test": "desktop-dropdown",
+        "aria": "dots",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "svg",
+        "id": "",
+        "test": "trigger-default-icon",
+        "aria": null,
+        "text": "",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Загрузить ещё",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Закрыть",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "div",
+        "id": ":r38:",
+        "test": "video-editor-layout",
+        "aria": null,
+        "text": "Человек-Паук1 Название 13 из 100 Описание Необязательно 0 из 5 000 Категория Выб",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "Закрыть",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "span",
+        "id": "",
+        "test": null,
+        "aria": "Очистить значение",
+        "text": "",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "Выбрать кадр из видео",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "new_playlist",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "input",
+        "id": ":r4l:",
+        "test": null,
+        "aria": null,
+        "text": "",
+        "href": null,
+        "type": "radio",
+        "name": null
+      },
+      {
+        "tag": "input",
+        "id": ":r4m:",
+        "test": null,
+        "aria": null,
+        "text": "",
+        "href": null,
+        "type": "radio",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "Открыть",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Выбрать",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Добавить",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Указать заставку",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Указать титры",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Подробнее",
+        "href": "https://rutube.ru/info/faq/",
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Добавить",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "span",
+        "id": "",
+        "test": null,
+        "aria": "Очистить значение",
+        "text": "",
+        "href": null,
+        "type": null,
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": "copy",
+        "text": "",
+        "href": null,
+        "type": "button",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Опубликовать",
+        "href": null,
+        "type": "submit",
+        "name": null
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "test": null,
+        "aria": null,
+        "text": "Закрыть",
+        "href": null,
+        "type": "button",
+        "name": null
+      }
+    ]
+  }
+}

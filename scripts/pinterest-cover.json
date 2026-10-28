@@ -1,0 +1,472 @@
+{
+  "video": "Человек-Паук1.mp4",
+  "cover": "test-cover.png",
+  "published": false,
+  "facts": {
+    "published": false,
+    "hub": "https://ru.pinterest.com/business/hub/ → [data-test-id=onboarding-module-create-pin-button] «Создайте пин» открывает /pin-builder/ «Создание пина для объявления»",
+    "adsPinBuilder": {
+      "url": "https://ru.pinterest.com/pin-builder/",
+      "header": "Создание пина для объявления",
+      "file": {
+        "id": "media-upload-input-{uuid}",
+        "test": "media-upload-input-{uuid}",
+        "aria": "Загрузка файла",
+        "accept": "image/bmp,image/gif,image/jpeg,image/png,image/tiff,image/webp"
+      },
+      "videoResult": "Не удалось загрузить — неправильный формат",
+      "publish": "board-dropdown-save-button «Опубликовать»"
+    },
+    "videoBuilder": {
+      "url": "https://ru.pinterest.com/pin-creation-tool/",
+      "via": "https://ru.pinterest.com/idea-pin-builder/ редирект",
+      "header": "Создание пина",
+      "newDraft": "storyboard-create-button «Создать»",
+      "file": {
+        "id": "storyboard-upload-input",
+        "test": "storyboard-upload-input",
+        "aria": "Загрузка файлов",
+        "accept": "image/bmp,image/gif,image/jpeg,image/png,image/tiff,image/webp,video/mp4,video/x-m4v,video/quicktime"
+      },
+      "title": "storyboard-selector-title / storyboard-title-field-container",
+      "description": "editor-with-mentions",
+      "publish": "storyboard-creation-nav-done «Опубликовать»"
+    },
+    "cover": {
+      "open": "video-cover-container-edit-cover-button «Редактировать обложку»",
+      "dialogAria": "Выберите обложку для видео.",
+      "modal": "video-cover-edit-cover-modal-content",
+      "timeline": "video-cover-timeline-picker",
+      "cancel": "video-cover-edit-cover-cancel-button «Отмена»",
+      "done": "video-cover-edit-cover-done-button «Готово»",
+      "uploadImage": "НЕТ. В модалке только кадры таймлайна (img), input[type=file] нет. Свою картинку можно только вместе с видео в storyboard-upload-input (несколько файлов)."
+    }
+  },
+  "snapshots": [
+    {
+      "name": "empty-creation-tool",
+      "url": "https://ru.pinterest.com/pin-creation-tool/",
+      "files": [
+        {
+          "id": "storyboard-upload-input",
+          "test": "storyboard-upload-input",
+          "accept": "image/bmp,image/gif,image/jpeg,image/png,image/tiff,image/webp,video/mp4,video/x-m4v,video/quicktime",
+          "aria": "Загрузка файлов"
+        }
+      ],
+      "coverish": [
+        {
+          "test": "storyboard-create-button",
+          "aria": null,
+          "text": "Создать"
+        },
+        {
+          "test": "storyboard-create-header-heading",
+          "aria": null,
+          "text": "Создание пина Работа с: Профиль"
+        },
+        {
+          "test": "storyboard-draft-upload-container",
+          "aria": null,
+          "text": "Загрузите медиафайлы Выберите несколько файлов в проводнике, используя клавиши Shift или Cmd/Ctrl JP"
+        },
+        {
+          "test": "drag-behavior-container",
+          "aria": null,
+          "text": "Загрузите медиафайлы Выберите несколько файлов в проводнике, используя клавиши Shift или Cmd/Ctrl JP"
+        },
+        {
+          "test": "storyboard-upload-input",
+          "aria": "Загрузка файлов",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "name": "after-video-and-cover-together",
+      "url": "https://ru.pinterest.com/pin-creation-tool/",
+      "files": [],
+      "coverish": [
+        {
+          "test": "storyboard-create-button",
+          "aria": null,
+          "text": "Создать"
+        },
+        {
+          "test": "storyboard-thumbnail",
+          "aria": null,
+          "text": ""
+        },
+        {
+          "test": "storyboard-create-header-heading",
+          "aria": null,
+          "text": "Создание пина Работа с: Профиль"
+        },
+        {
+          "test": "storyboard-creation-nav-done",
+          "aria": null,
+          "text": "Опубликовать"
+        },
+        {
+          "test": "storyboard-pin-card",
+          "aria": null,
+          "text": "Редактировать обложку"
+        },
+        {
+          "test": "storyboard-pin-card-item",
+          "aria": null,
+          "text": "Редактировать обложку"
+        },
+        {
+          "test": "storyboard-thumbnail",
+          "aria": null,
+          "text": ""
+        },
+        {
+          "test": "video-cover-container-edit-cover-button",
+          "aria": null,
+          "text": "Редактировать обложку"
+        }
+      ]
+    },
+    {
+      "name": "cover-modal",
+      "modal": {
+        "dialogAria": "Выберите обложку для видео.",
+        "dialogText": "Выбор обложки\nЭто изображение, которое пользователи будут видеть среди результатов поиска, в ленте и перед воспроизведением видео.\nОтмена\nГотово",
+        "files": [],
+        "els": [
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div",
+            "text": "Выбор обложки Это изображение, которое пользователи будут видеть среди результат"
+          },
+          {
+            "tag": "div",
+            "text": "Выбор обложки Это изображение, которое пользователи будут видеть среди результат"
+          },
+          {
+            "tag": "div",
+            "text": "Выбор обложки"
+          },
+          {
+            "tag": "div",
+            "text": "Выбор обложки"
+          },
+          {
+            "tag": "h1",
+            "text": "Выбор обложки"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div",
+            "test": "video-cover-edit-cover-modal-content"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "img"
+          },
+          {
+            "tag": "div",
+            "test": "video-cover-timeline-picker"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div",
+            "test": "storyboard-thumbnail"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div",
+            "test": "storyboard-editor-canvas-media"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "video"
+          },
+          {
+            "tag": "track"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div",
+            "test": "storyboard-editor-canvas-text"
+          },
+          {
+            "tag": "div"
+          },
+          {
+            "tag": "div",
+            "aria": "Пустое текстовое поле. Перейдите на страницу редактирования дизайна пина, чтобы добавить текстовый слой"
+          },
+          {
+            "tag": "div",
+            "text": "Это изображение, которое пользователи будут видеть среди результатов поиска, в л"
+          },
+          {
+            "tag": "div",
+            "text": "Это изображение, которое пользователи будут видеть среди результатов поиска, в л"
+          },
+          {
+            "tag": "div",
+            "text": "Это изображение, которое пользователи будут видеть среди результатов поиска, в л"
+          },
+          {
+            "tag": "div",
+            "text": "Это изображение, которое пользователи будут видеть среди результатов поиска, в л"
+          },
+          {
+            "tag": "div",
+            "text": "Отмена Готово"
+          },
+          {
+            "tag": "div",
+            "text": "Отмена"
+          },
+          {
+            "tag": "button",
+            "test": "video-cover-edit-cover-cancel-button",
+            "type": "button",
+            "text": "Отмена"
+          },
+          {
+            "tag": "div",
+            "text": "Отмена"
+          },
+          {
+            "tag": "div",
+            "text": "Отмена"
+          },
+          {
+            "tag": "div",
+            "text": "Готово"
+          },
+          {
+            "tag": "button",
+            "test": "video-cover-edit-cover-done-button",
+            "type": "button",
+            "text": "Готово"
+          },
+          {
+            "tag": "div",
+            "text": "Готово"
+          },
+          {
+            "tag": "div",
+            "text": "Готово"
+          }
+        ]
+      },
+      "files": [],
+      "coverish": [
+        {
+          "test": "storyboard-create-button",
+          "aria": null,
+          "text": "Создать"
+        },
+        {
+          "test": "storyboard-thumbnail",
+          "aria": null,
+          "text": ""
+        },
+        {
+          "test": "storyboard-create-header-heading",
+          "aria": null,
+          "text": "Создание пина Работа с: Профиль"
+        },
+        {
+          "test": "storyboard-creation-nav-done",
+          "aria": null,
+          "text": "Опубликовать"
+        },
+        {
+          "test": "storyboard-pin-card",
+          "aria": null,
+          "text": "Редактировать обложку"
+        },
+        {
+          "test": "storyboard-pin-card-item",
+          "aria": null,
+          "text": "Редактировать обложку"
+        },
+        {
+          "test": "storyboard-thumbnail",
+          "aria": null,
+          "text": ""
+        },
+        {
+          "test": "video-cover-container-edit-cover-button",
+          "aria": null,
+          "text": "Редактировать обложку"
+        },
+        {
+          "test": null,
+          "aria": "Выберите обложку для видео.",
+          "text": "Выбор обложки Это изображение, которое пользователи будут видеть среди результатов поиска, в ленте и"
+        },
+        {
+          "test": "video-cover-edit-cover-modal-content",
+          "aria": null,
+          "text": ""
+        },
+        {
+          "test": "video-cover-timeline-picker",
+          "aria": null,
+          "text": ""
+        },
+        {
+          "test": "storyboard-thumbnail",
+          "aria": null,
+          "text": ""
+        },
+        {
+          "test": "video-cover-edit-cover-cancel-button",
+          "aria": null,
+          "text": "Отмена"
+        },
+        {
+          "test": "video-cover-edit-cover-done-button",
+          "aria": null,
+          "text": "Готово"
+        }
+      ]
+    },
+    {
+      "name": "after-edit-pin",
+      "files": [
+        {
+          "id": "media-upload-input",
+          "test": null,
+          "accept": "image/bmp,image/gif,image/jpeg,image/png,image/tiff,image/webp,video/mp4,video/x-m4v,video/quicktime",
+          "aria": null
+        }
+      ],
+      "coverish": [
+        {
+          "test": "storyboard-create-button",
+          "aria": null,
+          "text": "Создать"
+        },
+        {
+          "test": "storyboard-thumbnail",
+          "aria": null,
+          "text": ""
+        },
+        {
+          "test": "storyboard-create-header-heading",
+          "aria": null,
+          "text": "Создайте пин Работа с: Профиль"
+        },
+        {
+          "test": "storyboard-creation-nav-done",
+          "aria": null,
+          "text": "Готово"
+        }
+      ],
+      "modal": {
+        "dialog": null
+      }
+    }
+  ]
+}

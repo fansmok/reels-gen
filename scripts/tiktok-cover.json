@@ -1,0 +1,1197 @@
+{
+  "files": {
+    "video": "C:\\Users\\faans\\Desktop\\РИЛС-ЗАГРУЗКА\\Человек-Паук1.mp4",
+    "cover": "C:\\Users\\faans\\Desktop\\РИЛС-ЗАГРУЗКА\\test-cover.png",
+    "videoName": "Человек-Паук1.mp4",
+    "coverName": "test-cover.png"
+  },
+  "steps": [
+    {
+      "t": "2026-08-21T15:13:17.230Z",
+      "name": "dismiss",
+      "actions": []
+    },
+    {
+      "t": "2026-08-21T15:13:17.403Z",
+      "name": "video",
+      "via": "video-input"
+    },
+    {
+      "t": "2026-08-21T15:13:21.509Z",
+      "name": "ready",
+      "status": "Человек-Паук1.mp4 360P Загружено（4.2MB） Заменить",
+      "postDisabled": false
+    },
+    {
+      "name": "timeline",
+      "timeline": [
+        {
+          "status": "Человек-Паук1.mp4 360P",
+          "postDisabled": true
+        },
+        {
+          "status": "Человек-Паук1.mp4 360P 1.48MB/4.2MB Длительность: 0m21s Осталось 4 секунды 35.27%",
+          "postDisabled": true
+        },
+        {
+          "status": "Человек-Паук1.mp4 360P 4.16MB/4.2MB Длительность: 0m21s Осталась 1 секунда 99%",
+          "postDisabled": true
+        },
+        {
+          "status": "Человек-Паук1.mp4 360P Загружено（4.2MB） Заменить",
+          "postDisabled": false
+        }
+      ]
+    },
+    {
+      "name": "after-ready",
+      "note": "видео готово, модалки закрыты",
+      "url": "https://www.tiktok.com/tiktokstudio/upload",
+      "statusText": "Человек-Паук1.mp4 360P Загружено（4.2MB） Заменить",
+      "postDisabled": false,
+      "postText": "Опубликовать",
+      "coverHtml": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"img\" focusable=\"false\" data-icon=\"info\" aria-hidden=\"true\" fill=\"var(--ui-text-placeholder)\" will-change=\"auto\" transform=\"rotate(0)\"><path opacity=\"0.989\" d=\"M11.999 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10m0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16m0 3a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1 3a1 1 0 0 0-1 1c0 .482.359.842.812.938l-.593 2.874c-.232 1.161.598 2.188 1.78 2.188h1a1 1 0 0 0 0-2h-.78l.75-3.812a.986.986 0 0 0-.97-1.188z\"></path></svg></span></span></div></span><div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div></div>",
+      "fileInputs": [],
+      "dialogs": [],
+      "coverButtons": [
+        {
+          "tag": "div",
+          "e2e": "cover_container",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917",
+          "text": "Обложка Изменить обложку",
+          "html": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"ht",
+          "rect": {
+            "x": 333,
+            "y": 507,
+            "w": 1190,
+            "h": 206
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-medium",
+          "text": "Обложка",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"",
+          "rect": {
+            "x": 333,
+            "y": 507,
+            "w": 1190,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 cover-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div>",
+          "rect": {
+            "x": 333,
+            "y": 537,
+            "w": 132,
+            "h": 176
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 edit-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 edit-container\">Изменить обложку</div>",
+          "rect": {
+            "x": 339,
+            "y": 681,
+            "w": 120,
+            "h": 26
+          }
+        }
+      ]
+    },
+    {
+      "t": "2026-08-21T15:14:01.271Z",
+      "name": "click-thumb",
+      "note": ".cover-container"
+    },
+    {
+      "name": "after-thumb",
+      "note": "после клика по миниатюре",
+      "url": "https://www.tiktok.com/tiktokstudio/upload",
+      "statusText": "Человек-Паук1.mp4 360P Загружено（4.2MB） Заменить",
+      "postDisabled": false,
+      "postText": "Опубликовать",
+      "coverHtml": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"img\" focusable=\"false\" data-icon=\"info\" aria-hidden=\"true\" fill=\"var(--ui-text-placeholder)\" will-change=\"auto\" transform=\"rotate(0)\"><path opacity=\"0.989\" d=\"M11.999 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10m0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16m0 3a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1 3a1 1 0 0 0-1 1c0 .482.359.842.812.938l-.593 2.874c-.232 1.161.598 2.188 1.78 2.188h1a1 1 0 0 0 0-2h-.78l.75-3.812a.986.986 0 0 0-.97-1.188z\"></path></svg></span></span></div></span><div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div></div>",
+      "fileInputs": [],
+      "dialogs": [],
+      "coverButtons": [
+        {
+          "tag": "div",
+          "e2e": "cover_container",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917",
+          "text": "Обложка Изменить обложку",
+          "html": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"ht",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 206
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-medium",
+          "text": "Обложка",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 cover-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div>",
+          "rect": {
+            "x": 333,
+            "y": 391,
+            "w": 132,
+            "h": 176
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 edit-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 edit-container\">Изменить обложку</div>",
+          "rect": {
+            "x": 339,
+            "y": 535,
+            "w": 120,
+            "h": 26
+          }
+        }
+      ]
+    },
+    {
+      "t": "2026-08-21T15:14:02.829Z",
+      "name": "click-overlay",
+      "note": "Изменить обложку на миниатюре"
+    },
+    {
+      "name": "cover-editor",
+      "note": "ожидаемый редактор обложки",
+      "url": "https://www.tiktok.com/tiktokstudio/upload",
+      "statusText": "Человек-Паук1.mp4 360P Загружено（4.2MB） Заменить",
+      "postDisabled": false,
+      "postText": "Опубликовать",
+      "coverHtml": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"img\" focusable=\"false\" data-icon=\"info\" aria-hidden=\"true\" fill=\"var(--ui-text-placeholder)\" will-change=\"auto\" transform=\"rotate(0)\"><path opacity=\"0.989\" d=\"M11.999 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10m0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16m0 3a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1 3a1 1 0 0 0-1 1c0 .482.359.842.812.938l-.593 2.874c-.232 1.161.598 2.188 1.78 2.188h1a1 1 0 0 0 0-2h-.78l.75-3.812a.986.986 0 0 0-.97-1.188z\"></path></svg></span></span></div></span><div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div></div>",
+      "fileInputs": [
+        {
+          "tag": "input",
+          "type": "file",
+          "accept": "image/jpeg, image/png, image/jpg",
+          "disabled": false,
+          "visible": false,
+          "class": "",
+          "text": "",
+          "html": "<input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\">",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        }
+      ],
+      "dialogs": [
+        {
+          "visible": true,
+          "class": "Dialog__content",
+          "e2e": null,
+          "text": "Изменить обложку Отмена Сохранить Стикер Текст Стикер Масштаб Загрузить обложку ЯРЧЕ - АТМОСФЕРНЫЕ СВЕТИЛЬНИКИ - Подписки - Подписчики - Лайки Предпросмотр в профиле (4:3)",
+          "buttons": [
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke",
+              "text": "",
+              "html": "<button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"rotate(0)\" viewBox=\"0 0 24 24\"><circle cx=\"",
+              "rect": {
+                "x": 252,
+                "y": 44,
+                "w": 32,
+                "h": 32
+              }
+            },
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-neutral",
+              "text": "Отмена",
+              "html": "<button role=\"button\" type=\"button\" class=\"header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-neutral\" aria-disabled=\"false\" data-icon-only=\"false\" data-type=\"neutral\" data-disabled=\"false\" style=\"min-width: 88px;\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"r",
+              "rect": {
+                "x": 1474,
+                "y": 44,
+                "w": 88,
+                "h": 32
+              }
+            },
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-primary",
+              "text": "Сохранить",
+              "html": "<button role=\"button\" type=\"button\" class=\"header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-primary\" aria-disabled=\"false\" data-icon-only=\"false\" data-type=\"primary\" data-loading=\"false\" data-disabled=\"false\" style=\"min-width: 88px;\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-chang",
+              "rect": {
+                "x": 1574,
+                "y": 44,
+                "w": 94,
+                "h": 32
+              }
+            },
+            {
+              "tag": "input",
+              "id": ":r74:",
+              "type": "range",
+              "disabled": false,
+              "visible": false,
+              "class": "",
+              "text": "1",
+              "html": "<input type=\"range\" min=\"1\" max=\"2\" step=\"0.01\" aria-hidden=\"true\" id=\":r74:\" value=\"1\" style=\"appearance: none; visibility: hidden; width: 0px; height: 0px;\">",
+              "rect": {
+                "x": 1241,
+                "y": 671,
+                "w": 0,
+                "h": 0
+              }
+            },
+            {
+              "tag": "label",
+              "aria": "Upload cover image",
+              "role": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "ImageUpload__uploadArea",
+              "text": "Загрузить обложку",
+              "html": "<label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"upload\" aria-hidden=\"true\" fill=\"currentColor\" will-change=\"auto\" transform=\"rotate(0)\"><pat",
+              "rect": {
+                "x": 696,
+                "y": 751,
+                "w": 107,
+                "h": 52
+              }
+            },
+            {
+              "tag": "input",
+              "type": "file",
+              "accept": "image/jpeg, image/png, image/jpg",
+              "disabled": false,
+              "visible": false,
+              "class": "",
+              "text": "",
+              "html": "<input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\">",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+              }
+            },
+            {
+              "tag": "div",
+              "role": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "CoverPicker__framePickerContainer",
+              "text": "",
+              "html": "<div role=\"button\" class=\"CoverPicker__framePickerContainer\"><div class=\"FramePicker__root FramePicker__root--isActive-true\" style=\"width: 429px;\"><div class=\"FramePicker__canvasContainer FramePicker__canvasContainer--isActive-true\"><canvas width=\"429\" height=\"52\" class=\"FramePicker__canvas\" style=\"width: 429px; height: 52px;\"></canvas></div><div class=\"FramePicker__indicator\" style=\"left: 0px; display: block;\"><div class=\"Tooltip__root\"><div class=\"FramePicker__indicatorInner\"><img src=\"blob:ht",
+              "rect": {
+                "x": 815,
+                "y": 751,
+                "w": 429,
+                "h": 52
+              }
+            }
+          ]
+        }
+      ],
+      "coverButtons": [
+        {
+          "tag": "div",
+          "e2e": "cover_container",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917",
+          "text": "Обложка Изменить обложку",
+          "html": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"ht",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 206
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-medium",
+          "text": "Обложка",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 cover-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div>",
+          "rect": {
+            "x": 333,
+            "y": 391,
+            "w": 132,
+            "h": 176
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 edit-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 edit-container\">Изменить обложку</div>",
+          "rect": {
+            "x": 339,
+            "y": 535,
+            "w": 120,
+            "h": 26
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2043126901 cover-editor-header",
+          "text": "Изменить обложку Отмена Сохранить",
+          "html": "<div dir=\"ltr\" class=\"jsx-2043126901 cover-editor-header\"><div class=\"jsx-2043126901 header-left\"><button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=",
+          "rect": {
+            "x": 240,
+            "y": 32,
+            "w": 1440,
+            "h": 56
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2043126901 header-left",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2043126901 header-left\"><button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"rot",
+          "rect": {
+            "x": 252,
+            "y": 44,
+            "w": 1222,
+            "h": 32
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-bold",
+          "text": "Изменить обложку",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-bold\" style=\"color: var(--ui-text-1); font-size: 14px;\">Изменить обложку</span>",
+          "rect": {
+            "x": 296,
+            "y": 50,
+            "w": 132,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "CoverEditor__mainPanel",
+          "text": "Масштаб Загрузить обложку",
+          "html": "<div class=\"CoverEditor__mainPanel\"><div class=\"CoverEditor__stageContainer\"><div class=\"absolute h-full w-full\"><div class=\"Stage__root\" style=\"background: linear-gradient(0deg, rgba(241, 174, 187, 0.01) 0%, rgba(241, 174, 187, 0.01) 100%), linear-gradient(rgba(0, 0, 0, 0.01) 0%, rgba(0, 0, 0, 0.02) 100%), linear-gradient(111deg, rgb(254, 254, 254) 0%, rgb(252, 252, 252) 100%), url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbgAAAG4AQMAAAANBGDwAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAC",
+          "rect": {
+            "x": 600,
+            "y": 88,
+            "w": 740,
+            "h": 769
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "CoverEditor__bottomSection",
+          "text": "Загрузить обложку",
+          "html": "<div class=\"CoverEditor__bottomSection\"><div class=\"CoverPicker__root CoverPicker__root\"><div class=\"ImageUpload__root\"><label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" f",
+          "rect": {
+            "x": 600,
+            "y": 695,
+            "w": 740,
+            "h": 162
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "CoverPicker__root CoverPicker__root",
+          "text": "Загрузить обложку",
+          "html": "<div class=\"CoverPicker__root CoverPicker__root\"><div class=\"ImageUpload__root\"><label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"upload\" aria",
+          "rect": {
+            "x": 600,
+            "y": 696,
+            "w": 740,
+            "h": 162
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "ImageUpload__root",
+          "text": "Загрузить обложку",
+          "html": "<div class=\"ImageUpload__root\"><label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"upload\" aria-hidden=\"true\" fill=\"currentColor\" will-change=\"a",
+          "rect": {
+            "x": 696,
+            "y": 751,
+            "w": 107,
+            "h": 52
+          }
+        },
+        {
+          "tag": "label",
+          "aria": "Upload cover image",
+          "role": "button",
+          "disabled": false,
+          "visible": true,
+          "class": "ImageUpload__uploadArea",
+          "text": "Загрузить обложку",
+          "html": "<label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"upload\" aria-hidden=\"true\" fill=\"currentColor\" will-change=\"auto\" transform=\"rotate(0)\"><pat",
+          "rect": {
+            "x": 696,
+            "y": 751,
+            "w": 107,
+            "h": 52
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "ImageUpload__uploadText",
+          "text": "Загрузить обложку",
+          "html": "<span class=\"ImageUpload__uploadText\">Загрузить обложку</span>",
+          "rect": {
+            "x": 704,
+            "y": 779,
+            "w": 90,
+            "h": 13
+          }
+        }
+      ]
+    },
+    {
+      "t": "2026-08-21T15:14:04.264Z",
+      "name": "click-upload-ui",
+      "text": "Загрузить обложку Upload cover image"
+    },
+    {
+      "name": "upload-ui",
+      "note": "после клика upload image",
+      "url": "https://www.tiktok.com/tiktokstudio/upload",
+      "statusText": "Человек-Паук1.mp4 360P Загружено（4.2MB） Заменить",
+      "postDisabled": false,
+      "postText": "Опубликовать",
+      "coverHtml": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"img\" focusable=\"false\" data-icon=\"info\" aria-hidden=\"true\" fill=\"var(--ui-text-placeholder)\" will-change=\"auto\" transform=\"rotate(0)\"><path opacity=\"0.989\" d=\"M11.999 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10m0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16m0 3a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1 3a1 1 0 0 0-1 1c0 .482.359.842.812.938l-.593 2.874c-.232 1.161.598 2.188 1.78 2.188h1a1 1 0 0 0 0-2h-.78l.75-3.812a.986.986 0 0 0-.97-1.188z\"></path></svg></span></span></div></span><div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div></div>",
+      "fileInputs": [
+        {
+          "tag": "input",
+          "type": "file",
+          "accept": "image/jpeg, image/png, image/jpg",
+          "disabled": false,
+          "visible": false,
+          "class": "",
+          "text": "",
+          "html": "<input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\">",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        }
+      ],
+      "dialogs": [
+        {
+          "visible": true,
+          "class": "Dialog__content",
+          "e2e": null,
+          "text": "Изменить обложку Отмена Сохранить Стикер Текст Стикер Масштаб Загрузить обложку ЯРЧЕ - АТМОСФЕРНЫЕ СВЕТИЛЬНИКИ - Подписки - Подписчики - Лайки Предпросмотр в профиле (4:3)",
+          "buttons": [
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke",
+              "text": "",
+              "html": "<button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"rotate(0)\" viewBox=\"0 0 24 24\"><circle cx=\"",
+              "rect": {
+                "x": 252,
+                "y": 44,
+                "w": 32,
+                "h": 32
+              }
+            },
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-neutral",
+              "text": "Отмена",
+              "html": "<button role=\"button\" type=\"button\" class=\"header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-neutral\" aria-disabled=\"false\" data-icon-only=\"false\" data-type=\"neutral\" data-disabled=\"false\" style=\"min-width: 88px;\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"r",
+              "rect": {
+                "x": 1474,
+                "y": 44,
+                "w": 88,
+                "h": 32
+              }
+            },
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-primary",
+              "text": "Сохранить",
+              "html": "<button role=\"button\" type=\"button\" class=\"header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-primary\" aria-disabled=\"false\" data-icon-only=\"false\" data-type=\"primary\" data-loading=\"false\" data-disabled=\"false\" style=\"min-width: 88px;\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-chang",
+              "rect": {
+                "x": 1574,
+                "y": 44,
+                "w": 94,
+                "h": 32
+              }
+            },
+            {
+              "tag": "input",
+              "id": ":r74:",
+              "type": "range",
+              "disabled": false,
+              "visible": false,
+              "class": "",
+              "text": "1",
+              "html": "<input type=\"range\" min=\"1\" max=\"2\" step=\"0.01\" aria-hidden=\"true\" id=\":r74:\" value=\"1\" style=\"appearance: none; visibility: hidden; width: 0px; height: 0px;\">",
+              "rect": {
+                "x": 1241,
+                "y": 671,
+                "w": 0,
+                "h": 0
+              }
+            },
+            {
+              "tag": "label",
+              "aria": "Upload cover image",
+              "role": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "ImageUpload__uploadArea",
+              "text": "Загрузить обложку",
+              "html": "<label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"upload\" aria-hidden=\"true\" fill=\"currentColor\" will-change=\"auto\" transform=\"rotate(0)\"><pat",
+              "rect": {
+                "x": 696,
+                "y": 751,
+                "w": 107,
+                "h": 52
+              }
+            },
+            {
+              "tag": "input",
+              "type": "file",
+              "accept": "image/jpeg, image/png, image/jpg",
+              "disabled": false,
+              "visible": false,
+              "class": "",
+              "text": "",
+              "html": "<input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\">",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+              }
+            },
+            {
+              "tag": "div",
+              "role": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "CoverPicker__framePickerContainer",
+              "text": "",
+              "html": "<div role=\"button\" class=\"CoverPicker__framePickerContainer\"><div class=\"FramePicker__root FramePicker__root--isActive-true\" style=\"width: 429px;\"><div class=\"FramePicker__canvasContainer FramePicker__canvasContainer--isActive-true\"><canvas width=\"429\" height=\"52\" class=\"FramePicker__canvas\" style=\"width: 429px; height: 52px;\"></canvas></div><div class=\"FramePicker__indicator\" style=\"left: 0px; display: block;\"><div class=\"Tooltip__root\"><div class=\"FramePicker__indicatorInner\"><img src=\"blob:ht",
+              "rect": {
+                "x": 815,
+                "y": 751,
+                "w": 429,
+                "h": 52
+              }
+            }
+          ]
+        }
+      ],
+      "coverButtons": [
+        {
+          "tag": "div",
+          "e2e": "cover_container",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917",
+          "text": "Обложка Изменить обложку",
+          "html": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"ht",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 206
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-medium",
+          "text": "Обложка",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 cover-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div>",
+          "rect": {
+            "x": 333,
+            "y": 391,
+            "w": 132,
+            "h": 176
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 edit-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 edit-container\">Изменить обложку</div>",
+          "rect": {
+            "x": 339,
+            "y": 535,
+            "w": 120,
+            "h": 26
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2043126901 cover-editor-header",
+          "text": "Изменить обложку Отмена Сохранить",
+          "html": "<div dir=\"ltr\" class=\"jsx-2043126901 cover-editor-header\"><div class=\"jsx-2043126901 header-left\"><button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=",
+          "rect": {
+            "x": 240,
+            "y": 32,
+            "w": 1440,
+            "h": 56
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2043126901 header-left",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2043126901 header-left\"><button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"rot",
+          "rect": {
+            "x": 252,
+            "y": 44,
+            "w": 1222,
+            "h": 32
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-bold",
+          "text": "Изменить обложку",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-bold\" style=\"color: var(--ui-text-1); font-size: 14px;\">Изменить обложку</span>",
+          "rect": {
+            "x": 296,
+            "y": 50,
+            "w": 132,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "CoverEditor__mainPanel",
+          "text": "Масштаб Загрузить обложку",
+          "html": "<div class=\"CoverEditor__mainPanel\"><div class=\"CoverEditor__stageContainer\"><div class=\"absolute h-full w-full\"><div class=\"Stage__root\" style=\"background: linear-gradient(0deg, rgba(241, 174, 187, 0.01) 0%, rgba(241, 174, 187, 0.01) 100%), linear-gradient(rgba(0, 0, 0, 0.01) 0%, rgba(0, 0, 0, 0.02) 100%), linear-gradient(111deg, rgb(254, 254, 254) 0%, rgb(252, 252, 252) 100%), url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbgAAAG4AQMAAAANBGDwAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAC",
+          "rect": {
+            "x": 600,
+            "y": 88,
+            "w": 740,
+            "h": 769
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "CoverEditor__bottomSection",
+          "text": "Загрузить обложку",
+          "html": "<div class=\"CoverEditor__bottomSection\"><div class=\"CoverPicker__root CoverPicker__root\"><div class=\"ImageUpload__root\"><label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" f",
+          "rect": {
+            "x": 600,
+            "y": 695,
+            "w": 740,
+            "h": 162
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "CoverPicker__root CoverPicker__root",
+          "text": "Загрузить обложку",
+          "html": "<div class=\"CoverPicker__root CoverPicker__root\"><div class=\"ImageUpload__root\"><label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"upload\" aria",
+          "rect": {
+            "x": 600,
+            "y": 696,
+            "w": 740,
+            "h": 162
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "ImageUpload__root",
+          "text": "Загрузить обложку",
+          "html": "<div class=\"ImageUpload__root\"><label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"upload\" aria-hidden=\"true\" fill=\"currentColor\" will-change=\"a",
+          "rect": {
+            "x": 696,
+            "y": 751,
+            "w": 107,
+            "h": 52
+          }
+        },
+        {
+          "tag": "label",
+          "aria": "Upload cover image",
+          "role": "button",
+          "disabled": false,
+          "visible": true,
+          "class": "ImageUpload__uploadArea",
+          "text": "Загрузить обложку",
+          "html": "<label class=\"ImageUpload__uploadArea\" role=\"button\" aria-label=\"Upload cover image\"><input type=\"file\" accept=\"image/jpeg, image/png, image/jpg\" aria-hidden=\"true\" style=\"display: none;\"><span role=\"img\" class=\"px-icon ImageUpload__uploadIcon\" data-icon=\"Upload\" data-testid=\"Upload\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"upload\" aria-hidden=\"true\" fill=\"currentColor\" will-change=\"auto\" transform=\"rotate(0)\"><pat",
+          "rect": {
+            "x": 696,
+            "y": 751,
+            "w": 107,
+            "h": 52
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "ImageUpload__uploadText",
+          "text": "Загрузить обложку",
+          "html": "<span class=\"ImageUpload__uploadText\">Загрузить обложку</span>",
+          "rect": {
+            "x": 704,
+            "y": 779,
+            "w": 90,
+            "h": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "after-png",
+      "note": "после PNG",
+      "coverMethod": "setInputFiles count=1 accept=image/jpeg, image/png, image/jpg",
+      "url": "https://www.tiktok.com/tiktokstudio/upload",
+      "statusText": "Человек-Паук1.mp4 360P Загружено（4.2MB） Заменить",
+      "postDisabled": false,
+      "postText": "Опубликовать",
+      "coverHtml": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"img\" focusable=\"false\" data-icon=\"info\" aria-hidden=\"true\" fill=\"var(--ui-text-placeholder)\" will-change=\"auto\" transform=\"rotate(0)\"><path opacity=\"0.989\" d=\"M11.999 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10m0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16m0 3a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1 3a1 1 0 0 0-1 1c0 .482.359.842.812.938l-.593 2.874c-.232 1.161.598 2.188 1.78 2.188h1a1 1 0 0 0 0-2h-.78l.75-3.812a.986.986 0 0 0-.97-1.188z\"></path></svg></span></span></div></span><div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div></div>",
+      "fileInputs": [],
+      "dialogs": [
+        {
+          "visible": true,
+          "class": "Dialog__content",
+          "e2e": null,
+          "text": "Изменить обложку Отмена Сохранить Стикер Текст Стикер Масштаб ЯРЧЕ - АТМОСФЕРНЫЕ СВЕТИЛЬНИКИ - Подписки - Подписчики - Лайки Предпросмотр в профиле (4:3)",
+          "buttons": [
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke",
+              "text": "",
+              "html": "<button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"rotate(0)\" viewBox=\"0 0 24 24\"><circle cx=\"",
+              "rect": {
+                "x": 252,
+                "y": 44,
+                "w": 32,
+                "h": 32
+              }
+            },
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-neutral",
+              "text": "Отмена",
+              "html": "<button role=\"button\" type=\"button\" class=\"header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-neutral\" aria-disabled=\"false\" data-icon-only=\"false\" data-type=\"neutral\" data-disabled=\"false\" style=\"min-width: 88px;\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"r",
+              "rect": {
+                "x": 1474,
+                "y": 44,
+                "w": 88,
+                "h": 32
+              }
+            },
+            {
+              "tag": "button",
+              "role": "button",
+              "type": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-primary",
+              "text": "Сохранить",
+              "html": "<button role=\"button\" type=\"button\" class=\"header-button Button__root Button__root--shape-default Button__root--size-medium Button__root--type-primary\" aria-disabled=\"false\" data-icon-only=\"false\" data-type=\"primary\" data-loading=\"false\" data-disabled=\"false\" style=\"min-width: 88px;\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-chang",
+              "rect": {
+                "x": 1574,
+                "y": 44,
+                "w": 94,
+                "h": 32
+              }
+            },
+            {
+              "tag": "input",
+              "id": ":r74:",
+              "type": "range",
+              "disabled": false,
+              "visible": false,
+              "class": "",
+              "text": "1",
+              "html": "<input type=\"range\" min=\"1\" max=\"2\" step=\"0.01\" aria-hidden=\"true\" id=\":r74:\" value=\"1\" style=\"appearance: none; visibility: hidden; width: 0px; height: 0px;\">",
+              "rect": {
+                "x": 1241,
+                "y": 671,
+                "w": 0,
+                "h": 0
+              }
+            },
+            {
+              "tag": "div",
+              "aria": "Uploaded cover image",
+              "role": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "ImageUpload__previewWrapper",
+              "text": "",
+              "html": "<div class=\"ImageUpload__previewWrapper\" role=\"button\" aria-label=\"Uploaded cover image\"><img src=\"blob:https://www.tiktok.com/df0456dc-a240-44b0-954b-ee7dbb2ae537\" crossorigin=\"use-credentials\" class=\"ImageUpload__preview\" alt=\"Uploaded cover image\"><div class=\"ImageUpload__deleteButton ImageUpload__deleteButton--isPreviewHovering-true\" role=\"button\" aria-label=\"Delete uploaded image\"><span role=\"img\" class=\"px-icon \" data-icon=\"XCircleFill2\" data-testid=\"XCircleFill2\"><svg viewBox=\"0 0 24 24\" ",
+              "rect": {
+                "x": 730,
+                "y": 751,
+                "w": 39,
+                "h": 52
+              }
+            },
+            {
+              "tag": "div",
+              "aria": "Delete uploaded image",
+              "role": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "ImageUpload__deleteButton ImageUpload__deleteButton--isPreviewHovering-true",
+              "text": "",
+              "html": "<div class=\"ImageUpload__deleteButton ImageUpload__deleteButton--isPreviewHovering-true\" role=\"button\" aria-label=\"Delete uploaded image\"><span role=\"img\" class=\"px-icon \" data-icon=\"XCircleFill2\" data-testid=\"XCircleFill2\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" role=\"img\" focusable=\"false\" data-icon=\"x-circle-fill-2\" aria-hidden=\"true\" fill=\"var(--color-text-danger-display)\" will-change=\"auto\" transform=\"rotate(0)\"><circle cx=\"12\" cy=\"12\" r=\"10\"></cir",
+              "rect": {
+                "x": 761,
+                "y": 743,
+                "w": 16,
+                "h": 16
+              }
+            },
+            {
+              "tag": "div",
+              "role": "button",
+              "disabled": false,
+              "visible": true,
+              "class": "CoverPicker__framePickerContainer",
+              "text": "",
+              "html": "<div role=\"button\" class=\"CoverPicker__framePickerContainer\"><div class=\"FramePicker__root FramePicker__root--isActive-false\" style=\"width: 429px;\"><div class=\"FramePicker__canvasContainer FramePicker__canvasContainer--isActive-false\"><canvas width=\"429\" height=\"52\" class=\"FramePicker__canvas\" style=\"width: 429px; height: 52px;\"></canvas></div><div class=\"FramePicker__indicator\" style=\"left: 0px; display: none;\"><div class=\"Tooltip__root\"><div class=\"FramePicker__indicatorInner\"><img src=\"blob:h",
+              "rect": {
+                "x": 815,
+                "y": 751,
+                "w": 429,
+                "h": 52
+              }
+            }
+          ]
+        }
+      ],
+      "coverButtons": [
+        {
+          "tag": "div",
+          "e2e": "cover_container",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917",
+          "text": "Обложка Изменить обложку",
+          "html": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"ht",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 206
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-medium",
+          "text": "Обложка",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 cover-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/2fd6d020-c73e-4cdd-a46a-1dd76fb1edb8\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div>",
+          "rect": {
+            "x": 333,
+            "y": 391,
+            "w": 132,
+            "h": 176
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 edit-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 edit-container\">Изменить обложку</div>",
+          "rect": {
+            "x": 339,
+            "y": 535,
+            "w": 120,
+            "h": 26
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2043126901 cover-editor-header",
+          "text": "Изменить обложку Отмена Сохранить",
+          "html": "<div dir=\"ltr\" class=\"jsx-2043126901 cover-editor-header\"><div class=\"jsx-2043126901 header-left\"><button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=",
+          "rect": {
+            "x": 240,
+            "y": 32,
+            "w": 1440,
+            "h": 56
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2043126901 header-left",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2043126901 header-left\"><button role=\"button\" type=\"button\" class=\"Button__root Button__root--shape-default Button__root--size-medium Button__root--type-stroke\" aria-disabled=\"false\" data-icon-only=\"true\" data-type=\"stroke\" data-disabled=\"false\"><div class=\"Button__spinnerBox Button__spinnerBox--loading-false\"><span role=\"img\" class=\"px-icon Button__spinner\" data-icon=\"Loading\" data-testid=\"Loading\"><svg width=\"16\" height=\"16\" fill=\"currentColor\" will-change=\"auto\" transform=\"rot",
+          "rect": {
+            "x": 252,
+            "y": 44,
+            "w": 1222,
+            "h": 32
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-bold",
+          "text": "Изменить обложку",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-bold\" style=\"color: var(--ui-text-1); font-size: 14px;\">Изменить обложку</span>",
+          "rect": {
+            "x": 296,
+            "y": 50,
+            "w": 132,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "aria": "Uploaded cover image",
+          "role": "button",
+          "disabled": false,
+          "visible": true,
+          "class": "ImageUpload__previewWrapper",
+          "text": "",
+          "html": "<div class=\"ImageUpload__previewWrapper\" role=\"button\" aria-label=\"Uploaded cover image\"><img src=\"blob:https://www.tiktok.com/df0456dc-a240-44b0-954b-ee7dbb2ae537\" crossorigin=\"use-credentials\" class=\"ImageUpload__preview\" alt=\"Uploaded cover image\"><div class=\"ImageUpload__deleteButton ImageUpload__deleteButton--isPreviewHovering-true\" role=\"button\" aria-label=\"Delete uploaded image\"><span role=\"img\" class=\"px-icon \" data-icon=\"XCircleFill2\" data-testid=\"XCircleFill2\"><svg viewBox=\"0 0 24 24\" ",
+          "rect": {
+            "x": 730,
+            "y": 751,
+            "w": 39,
+            "h": 52
+          }
+        }
+      ]
+    },
+    {
+      "t": "2026-08-21T15:14:06.962Z",
+      "name": "confirm-cover",
+      "text": "Сохранить"
+    },
+    {
+      "name": "final",
+      "note": "финал, Post НЕ нажат",
+      "coverMethod": "setInputFiles count=1 accept=image/jpeg, image/png, image/jpg",
+      "url": "https://www.tiktok.com/tiktokstudio/upload",
+      "statusText": "Человек-Паук1.mp4 360P Загружено（4.2MB） Заменить",
+      "postDisabled": false,
+      "postText": "Опубликовать",
+      "coverHtml": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"img\" focusable=\"false\" data-icon=\"info\" aria-hidden=\"true\" fill=\"var(--ui-text-placeholder)\" will-change=\"auto\" transform=\"rotate(0)\"><path opacity=\"0.989\" d=\"M11.999 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10m0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16m0 3a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1 3a1 1 0 0 0-1 1c0 .482.359.842.812.938l-.593 2.874c-.232 1.161.598 2.188 1.78 2.188h1a1 1 0 0 0 0-2h-.78l.75-3.812a.986.986 0 0 0-.97-1.188z\"></path></svg></span></span></div></span><div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/4851d798-5721-4c6d-be7d-b87f2e99eb46\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div></div>",
+      "fileInputs": [],
+      "dialogs": [],
+      "coverButtons": [
+        {
+          "tag": "div",
+          "e2e": "cover_container",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917",
+          "text": "Обложка Изменить обложку",
+          "html": "<div data-e2e=\"cover_container\" class=\"jsx-2520174917\"><span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"ht",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 206
+          }
+        },
+        {
+          "tag": "span",
+          "disabled": false,
+          "visible": true,
+          "class": "TUXText TUXText--tiktok-sans TUXText--weight-medium",
+          "text": "Обложка",
+          "html": "<span class=\"TUXText TUXText--tiktok-sans TUXText--weight-medium\" style=\"color: var(--ui-text-1); font-size: 14px; display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 12px; margin-top: 28px;\">Обложка&nbsp;<div class=\"Tooltip__root info-tooltip\"><span class=\"jsx-2627041470 info-tooltip-icon\"><span role=\"img\" class=\"px-icon \" data-icon=\"Info\" data-testid=\"Info\"><svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" role=\"",
+          "rect": {
+            "x": 333,
+            "y": 361,
+            "w": 1190,
+            "h": 18
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 cover-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 cover-container\"><img crossorigin=\"anonymous\" class=\"cover-image\" src=\"blob:https://www.tiktok.com/4851d798-5721-4c6d-be7d-b87f2e99eb46\"><div class=\"jsx-2520174917 edit-container\">Изменить обложку</div></div>",
+          "rect": {
+            "x": 333,
+            "y": 391,
+            "w": 132,
+            "h": 176
+          }
+        },
+        {
+          "tag": "div",
+          "disabled": false,
+          "visible": true,
+          "class": "jsx-2520174917 edit-container",
+          "text": "Изменить обложку",
+          "html": "<div class=\"jsx-2520174917 edit-container\">Изменить обложку</div>",
+          "rect": {
+            "x": 339,
+            "y": 535,
+            "w": 120,
+            "h": 26
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "platform": "instagram",
+  "shareClicked": false,
+  "session": "%APPDATA%\\reels-uploader\\sessions\\instagram",
+  "files": {
+    "video": "C:\\Users\\faans\\Desktop\\РИЛС-ЗАГРУЗКА\\Человек-Паук1.mp4",
+    "cover": "C:\\Users\\faans\\Desktop\\РИЛС-ЗАГРУЗКА\\test-cover.png"
+  },
+  "flow": [
+    "Новая публикация (aria-label) — не «Создать» и не вкладка Reels",
+    "input[type=file] видео (accept video/* или первый file)",
+    "Ждать обработки: video.readyState>=2 && videoWidth>0 в [role=dialog]; Далее часто div[role=button] без native disabled",
+    "Опционально OK на «Share as a Reel» / «делиться как видео Reels»",
+    "Обрезать → Далее",
+    "Редактировать: открыть «Фото обложки» / Cover photo",
+    "Свою картинку: input[type=file][accept='image/jpeg,image/png'] — НЕ первый file input (это видео)",
+    "Запас: «Выбрать на компьютере» только после вкладки обложки",
+    "Готово если кроп обложки, затем Далее",
+    "Новое видео / Добавьте подпись… — dryRun: не жать Поделиться"
+  ],
+  "cover": {
+    "stepHeadings": ["Редактировать", "Edit"],
+    "open": {
+      "role": "button|tab",
+      "name": "/фото обложки|cover photo|обложк/i"
+    },
+    "fileInput": "input[type=file][accept='image/jpeg,image/png']",
+    "fileInputAlt": "input[type=file][accept*='image/jpeg'][accept*='image/png']",
+    "fallbackButton": "/выбрать на компьютере|select from computer|загрузить с компьютера/i",
+    "confirm": "/^(done|готово)$/i",
+    "doNotUse": [
+      "input[type=file] без accept image (видео с шага create)",
+      "«Выбрать на компьютере» на экране перетащите-сюда — это видео"
+    ]
+  },
+  "processing": {
+    "busyText": "/обработк|загрузк|uploading|processing|preparing|подготовк/i",
+    "readyVideo": "dialog video readyState>=2 && videoWidth>0",
+    "next": "getByRole('button', { name: /^(next|далее)$/i }) — Instagram рисует div[role=button], isDisabled() часто false; смотреть aria-disabled, opacity, pointer-events и наличие готового video"
+  },
+  "caption": {
+    "heading": ["Новое видео", "New reel"],
+    "box": "[aria-label='Добавьте подпись…'], [aria-label*='caption' i], [role=textbox]",
+    "advanced": "Расширенные настройки / Advanced settings",
+    "comments": "Выключить комментарии / Turn off commenting",
+    "shareToFeed": "отдельного тумблера может не быть — рилс сам идёт в ленту"
+  },
+  "dumpScript": "scripts/dump-ig-cover.mjs"
+}

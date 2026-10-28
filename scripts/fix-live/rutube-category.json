@@ -1,0 +1,183 @@
+{
+  "published": false,
+  "steps": [
+    {
+      "t": "2026-08-21T19:25:02.208Z",
+      "name": "open-buttons",
+      "detail": "1"
+    },
+    {
+      "t": "2026-08-21T19:25:07.408Z",
+      "name": "text-click-fail",
+      "detail": "locator.click: Timeout 4000ms exceeded.\nCall log:\n  - waiting for getByText('Разное', { exact: true }).last()\n"
+    },
+    {
+      "t": "2026-08-21T19:25:07.999Z",
+      "name": "after",
+      "detail": "Человек-Паук1 Название 13 из 100 Описание Необязательно 0 из 5 000 Категория Выберите категорию В настройках канала можно выбрать категорию по умолчанию для будущих видео Доступ Для всех Обложка Необязательно Загрузить свою Плейлисты Необязательно Выберите плейлист Время публикации Необязательно Сейчас Запланировать Расширенные настройки Субтитры Необязательно Генерируются. Видео можно опубликоват"
+    }
+  ],
+  "dom": {
+    "nodes": [
+      {
+        "tag": "span",
+        "aria": "Очистить значение",
+        "role": "button",
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_root_51bece_v1-39-0",
+        "text": ""
+      },
+      {
+        "tag": "span",
+        "aria": null,
+        "role": null,
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_label_8d9843_v1-39-0 __studio_root_388a98_v1-39-0 __studio_caption-s-re",
+        "text": "Категория"
+      },
+      {
+        "tag": "div",
+        "aria": null,
+        "role": "combobox",
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_control_894cbb_v1-39-0 __studio_root_b52aec_v1-39-0 __studio_size-m_b52",
+        "text": "Выберите категорию"
+      },
+      {
+        "tag": "label",
+        "aria": null,
+        "role": null,
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_wrapper_b52aec_v1-39-0",
+        "text": "Выберите категорию"
+      },
+      {
+        "tag": "span",
+        "aria": null,
+        "role": null,
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_placeholder_f7494e_v1-39-0 __studio_root_388a98_v1-39-0 __studio_body-m",
+        "text": "Выберите категорию"
+      },
+      {
+        "tag": "span",
+        "aria": null,
+        "role": null,
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_label_8d9843_v1-39-0 __studio_root_388a98_v1-39-0 __studio_caption-s-re",
+        "text": "В настройках канала можно выбрать категорию по умолчанию для будущих видео"
+      },
+      {
+        "tag": "div",
+        "aria": null,
+        "role": "combobox",
+        "ph": null,
+        "type": null,
+        "labelled": ":r3v: :r40:",
+        "cls": "__studio_control_894cbb_v1-39-0 __studio_root_b52aec_v1-39-0 __studio_size-m_b52",
+        "text": "Для всех"
+      },
+      {
+        "tag": "div",
+        "aria": null,
+        "role": "combobox",
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_control_72c243_v1-39-0 __studio_root_b52aec_v1-39-0 __studio_size-m_b52",
+        "text": "Выберите плейлист"
+      },
+      {
+        "tag": "label",
+        "aria": null,
+        "role": null,
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_wrapper_b52aec_v1-39-0 __studio_controlWrapper_72c243_v1-39-0",
+        "text": "Выберите плейлист"
+      },
+      {
+        "tag": "span",
+        "aria": null,
+        "role": null,
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_placeholder_5f3a89_v1-39-0 __studio_root_388a98_v1-39-0 __studio_body-m",
+        "text": "Выберите плейлист"
+      },
+      {
+        "tag": "button",
+        "aria": "Открыть",
+        "role": null,
+        "ph": null,
+        "type": "button",
+        "labelled": null,
+        "cls": "__studio_root_ce7f79_v1-39-0 __studio_tertiary_ce7f79_v1-39-0 __studio_size-s_ce",
+        "text": ""
+      },
+      {
+        "tag": "div",
+        "aria": null,
+        "role": "combobox",
+        "ph": null,
+        "type": null,
+        "labelled": ":r54:",
+        "cls": "__studio_control_72c243_v1-39-0 __studio_root_b52aec_v1-39-0 __studio_size-m_b52",
+        "text": "Facebook и Instagram запрещены в РФНезаконное потребление наркотических средств,"
+      },
+      {
+        "tag": "span",
+        "aria": "Очистить значение",
+        "role": "button",
+        "ph": null,
+        "type": null,
+        "labelled": null,
+        "cls": "__studio_root_51bece_v1-39-0",
+        "text": ""
+      }
+    ],
+    "rowHtml": "<div class=\"categorySelect__category-selector-module__ZjLI8vMrYVgpv70O __studio_root_894cbb_v1-39-0 __studio_root_abf276_v1-39-0 __studio_column_abf276_v1-39-0 __studio_nowrap_abf276_v1-39-0 __studio_justify-flex-start_abf276_v1-39-0 __studio_align-stretch_abf276_v1-39-0 __studio_gap-4x_abf276_v1-39-0\" data-control-name=\"category\" heading=\"[object Object]\"><div class=\"__studio_root_8d9843_v1-39-0 __studio_root_abf276_v1-39-0 __studio_row_abf276_v1-39-0 __studio_nowrap_abf276_v1-39-0 __studio_justify-flex-start_abf276_v1-39-0 __studio_align-flex-end_abf276_v1-39-0 __studio_gap-2x_abf276_v1-39-0\"><span class=\"__studio_label_8d9843_v1-39-0 __studio_root_388a98_v1-39-0 __studio_caption-s-regular_388a98_v1-39-0 __studio_breakWord_388a98_v1-39-0 __studio_secondary_388a98_v1-39-0\" id=\":r3l:\">Категория</span><svg class=\"svg-ds-icon svg-icon--IconDsMainHelpCircle svg-icon--size\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"color: var(--rt-colors-icon-secondary); --rutube-icon-custom-size: 16px;\"><use xlink:href=\"#IconDsMainHelpCircle\"></use></svg></div><div class=\"__studio_control_894cbb_v1-39-0 __studio_root_b52aec_v1-39-0 __studio_size-m_b52aec_v1-39-0 __studio_hasIcons_b52aec_v1-39-0\" tabindex=\"-1\" aria-expanded=\"false\" aria-haspopup=\"listbox\" role=\"combobox\"><label class=\"__studio_wrapper_b52aec_v1-39-0\"><div class=\"__studio_root_f7494e_v1-39-0\"><div class=\"__studio_inputWrapper_f7494e_v1-39-0\"><input type=\"text\" autocomplete=\"off\" class=\"__studio_input_f7494e_v1-39-0\" aria-labelledby=\":r3l: :r3m:\" aria-required=\"true\" value=\"\"><span class=\"__studio_placeholder_f7494e_v1-39-0 __studio_root_388a98_v1-39-0 __studio_body-m-regular_388a98_v1-39-0 __studio_tertiary_388a98_v1-39-0 __studio_ellipsis_388a98_v1-39-0\" id=\":r3m:\">Выберите категорию</span></div><div class=\"__studio_iconContainer_f7494e_v1-39-0\"><div class=\"__studio_root_28ad7f_v1-39-0 __studio_root_ce7f79_v1-39-0 __studio_tertiary_ce7f79_v1-39-0 __studio_size-s_ce7f79_v1-39-0 __studio_onlyIcon_ce7f79_v1-39-0\" aria-label=\"Переключить видимость\" aria-hidden=\"true\"><svg class=\"svg-ds-icon svg-icon--IconDsArrowsChevronDown svg-icon--size __studio_icon_28ad7f_v1-39-0\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" style=\"--rutube-icon-custom-size: 24px;\"><use xlink:href=\"#IconDsArrowsChevronDown\"></use></svg></div></div></div></label></div></div>",
+    "rowText": "Категория Выберите категорию"
+  },
+  "afterOpen": {
+    "options": [
+      "Главная",
+      "Видео",
+      "Плейлисты",
+      "Трансляции",
+      "Аналитика",
+      "Монетизация",
+      "Уровень канала",
+      "Донаты",
+      "Комментарии",
+      "Настройки канала",
+      "Cправочник блогера",
+      "Вопросы и ответы",
+      "Написать в поддержку",
+      "Пожаловаться",
+      "Студия RUTUBE",
+      "RUTUBE",
+      "О нас",
+      "Пользовательское соглашение",
+      "Конфиденциальность",
+      "Правовая информация",
+      "Правила и запреты"
+    ],
+    "listboxes": []
+  },
+  "afterSelect": "Человек-Паук1 Название 13 из 100 Описание Необязательно 0 из 5 000 Категория Выберите категорию В настройках канала можно выбрать категорию по умолчанию для будущих видео Доступ Для всех Обложка Необязательно Загрузить свою Плейлисты Необязательно Выберите плейлист Время публикации Необязательно Сейчас Запланировать Расширенные настройки Субтитры Необязательно Генерируются. Видео можно опубликоват"
+}

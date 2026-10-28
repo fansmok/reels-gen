@@ -1,0 +1,45 @@
+{
+  "published": false,
+  "steps": [
+    {
+      "t": "2026-08-21T19:25:01.369Z",
+      "name": "file",
+      "detail": "set"
+    },
+    {
+      "t": "2026-08-21T19:25:03.050Z",
+      "name": "btn",
+      "detail": "{\"tag\":\"BUTTON\",\"text\":\"Publish\",\"disabled\":false,\"aria\":null,\"cls\":\"G0yGFD ap8aAM Q3hcOU gwpqhu itmoZr GaMK1V PRly_u y0ni1V\",\"wrapText\":\"Publish\",\"saving\":true,\"saved\":false,\"topAtClick\":\"DIV.lIkAnG eMU5i5 o5UlW_ hL1e7w Publish\"}"
+    },
+    {
+      "t": "2026-08-21T19:25:03.299Z",
+      "name": "roles",
+      "detail": "[{\"text\":\"Publish\",\"disabled\":false,\"aria\":null}]"
+    },
+    {
+      "t": "2026-08-21T19:25:03.300Z",
+      "name": "publish",
+      "detail": "НЕ жму Publish — только дамп"
+    }
+  ],
+  "btn": {
+    "tag": "BUTTON",
+    "text": "Publish",
+    "disabled": false,
+    "aria": null,
+    "cls": "G0yGFD ap8aAM Q3hcOU gwpqhu itmoZr GaMK1V PRly_u y0ni1V",
+    "wrapText": "Publish",
+    "saving": true,
+    "saved": false,
+    "topAtClick": "DIV.lIkAnG eMU5i5 o5UlW_ hL1e7w Publish"
+  },
+  "scheduleVisible": true,
+  "roleCount": 1,
+  "roleTexts": [
+    {
+      "text": "Publish",
+      "disabled": false,
+      "aria": null
+    }
+  ]
+}
